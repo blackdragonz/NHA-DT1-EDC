@@ -6,83 +6,83 @@
 
 ระบบจะแสดงหน้าจอ การเข้าสู่ระบบ โดยผู้ใช้งานจะต้องมีข้อมูล ชื่อผู้ใช้งานและรหัสผ่าน สามารถเข้า URL Production ได้ที่ [portal.nha.co.th](https://portal.nha.co.th/)
 
-![รูปภาพที่ 1 การเข้าใช้งานแอปพลิเคชัน Center](<../.gitbook/assets/0 (22).png>)
+<figure><img src="../.gitbook/assets/0 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 1 การเข้าใช้งานแอปพลิเคชัน Center</strong></p></figcaption></figure>
 
 1. ระบุชื่อผู้ใช้
 2. ระบุรหัสผ่าน
 3. กดปุ่มเข้าสู่ระบบ
 
-![รูปภาพที่ 2 เมนูระบบงาน](<../.gitbook/assets/1 (22).png>)
+<figure><img src="../.gitbook/assets/1 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 2 เมนูระบบงาน</strong></p></figcaption></figure>
 
 ส่วนที่ 1 – หน้าจอระบบงาน เป็นพื้นที่แสดงข้อมูลเนื้อหาของระบบงานต่างๆ เปลี่ยนไปตามระบบงานที่ใช้งาน
 
 ส่วนที่ 2 – เมนูลัด เป็นเมนูทางด้านซ้าย ประกอบไปด้วย
 
-![](<../.gitbook/assets/2 (22).png>)
+<figure><img src="../.gitbook/assets/2 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Action Center / Notification : ข้อความแจ้งเตือน
 
-![](<../.gitbook/assets/3 (22).png>)
+<figure><img src="../.gitbook/assets/3 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู Action Center / Notification : ข้อความแจ้งเตือน
 
-![](<../.gitbook/assets/4 (22).png>)
+<figure><img src="../.gitbook/assets/4 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Home : หน้าแรก
 
-![รูปภาพที่ 4 หน้าจอแสดงผลเมนู Home : หน้าแรก](<../.gitbook/assets/5 (22).png>)
+<figure><img src="../.gitbook/assets/5 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 4 หน้าจอแสดงผลเมนู Home : หน้าแรก</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/6 (22).png>)
+<figure><img src="../.gitbook/assets/6 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Social Feed : ระบบฟีดสังคมออนไลน์
 
-![รูปภาพที่ 5 หน้าจอแสดงผลเมนู Social Feed : ระบบฟีดสังคมออนไลน์](<../.gitbook/assets/7 (22).png>)
+<figure><img src="../.gitbook/assets/7 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 5 หน้าจอแสดงผลเมนู Social Feed : ระบบฟีดสังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/8 (22).png>)
+<figure><img src="../.gitbook/assets/8 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน
 
-![รูปภาพที่ 6 หน้าจอแสดงผลเมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน](<../.gitbook/assets/9 (22).png>)
+<figure><img src="../.gitbook/assets/9 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 6 หน้าจอแสดงผลเมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/10 (22).png>)
+<figure><img src="../.gitbook/assets/10 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Social Post : ระบบโพสต์สังคมออนไลน์
 
-![รูปภาพที่ 7 หน้าจอแสดงผลเมนู Social Post : ระบบโพสต์สังคมออนไลน์](<../.gitbook/assets/11 (22).png>)
+<figure><img src="../.gitbook/assets/11 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 7 หน้าจอแสดงผลเมนู Social Post : ระบบโพสต์สังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/12 (22).png>)
+<figure><img src="../.gitbook/assets/12 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ
 
-![รูปภาพที่ 8 หน้าจอแสดงผลเมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ](<../.gitbook/assets/13 (22).png>)
+<figure><img src="../.gitbook/assets/13 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 8 หน้าจอแสดงผลเมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/14 (22).png>)
+<figure><img src="../.gitbook/assets/14 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Social Group : ระบบกลุ่มสังคมออนไลน์
 
-![รูปภาพที่ 9 หน้าจอแสดงผลเมนู Social Group : ระบบกลุ่มสังคมออนไลน์](<../.gitbook/assets/15 (22).png>)
+<figure><img src="../.gitbook/assets/15 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 9 หน้าจอแสดงผลเมนู Social Group : ระบบกลุ่มสังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/16 (22).png>)
+<figure><img src="../.gitbook/assets/16 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Setting : การตั้งค่าข้อมูลผู้ใช้งานและอื่นๆ
 
-![รูปภาพที่ 10 หน้าจอแสดงผลเมนู Setting : การตั้งค่าข้อมูลผู้ใช้งานและอื่นๆ](<../.gitbook/assets/17 (22).png>)
+<figure><img src="../.gitbook/assets/17 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 10 หน้าจอแสดงผลเมนู Setting : การตั้งค่าข้อมูลผู้ใช้งานและอื่นๆ</strong></p></figcaption></figure>
 
 ### 1.2 ขั้นตอนการเปิดงานคดี <a href="#toc163137548" id="toc163137548"></a>
 
 หน่วยงานต้นเรื่องเป็นคนเปิดเรื่องรายงานคดี โดยที่สามารถระบุข้อมูลเพื่อเอาไปประกอบการฟ้องได้ และส่งไปให้กองต้นเรื่อง
 
-![รูปภาพที่ 11 หน้าจอระบบการเปิดงานคดี](<../.gitbook/assets/18 (22).png>)
+<figure><img src="../.gitbook/assets/18 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 11 หน้าจอระบบการเปิดงานคดี</strong></p></figcaption></figure>
 
 กดที่ปุ่ม “ +”
 
-![รูปภาพที่ 12 หน้าจอเพิ่มเอกสารใหม่](<../.gitbook/assets/19 (22).png>)
+<figure><img src="../.gitbook/assets/19 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 12 หน้าจอเพิ่มเอกสารใหม่</strong></p></figcaption></figure>
 
 1. เลือกที่แท็บ “เรื่อง”
 2. เลือก Drop down ขั้นตอนการทำงานเป็น “ขอให้ฝ่ายกฎหมายดำเนินคดี”
 3. กดที่ปุ่ม “บันทึก/ส่งงาน”
 
-![รูปภาพที่ 13 หน้าจอขั้นตอนการดำเนินงาน](<../.gitbook/assets/20 (22).png>)
+<figure><img src="../.gitbook/assets/20 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 13 หน้าจอขั้นตอนการดำเนินงาน</strong></p></figcaption></figure>
 
 1. กดที่ปุ่ม &#x20;
 

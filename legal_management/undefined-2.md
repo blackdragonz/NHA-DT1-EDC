@@ -6,83 +6,83 @@
 
 ระบบจะแสดงหน้าจอ การเข้าสู่ระบบ โดยผู้ใช้งานจะต้องมีข้อมูล ชื่อผู้ใช้งานและรหัสผ่าน สามารถเข้า URL Production ได้ที่ [portal.nha.co.th](https://portal.nha.co.th/)
 
-![รูปภาพที่ 1 การเข้าใช้งานแอปพลิเคชัน Center](<../.gitbook/assets/0 (22).png>)
+<figure><img src="../.gitbook/assets/0 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 1 การเข้าใช้งานแอปพลิเคชัน Center</strong></p></figcaption></figure>
 
 1. ระบุชื่อผู้ใช้
 2. ระบุรหัสผ่าน
 3. กดปุ่มเข้าสู่ระบบ
 
-![รูปภาพที่ 2 เมนูระบบงาน](<../.gitbook/assets/1 (22).png>)
+<figure><img src="../.gitbook/assets/1 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 2 เมนูระบบงาน</strong></p></figcaption></figure>
 
 ส่วนที่ 1 – หน้าจอระบบงาน เป็นพื้นที่แสดงข้อมูลเนื้อหาของระบบงานต่างๆ เปลี่ยนไปตามระบบงานที่ใช้งาน
 
 ส่วนที่ 2 – เมนูลัด เป็นเมนูทางด้านซ้าย ประกอบไปด้วย
 
-![](<../.gitbook/assets/2 (22).png>)
+<figure><img src="../.gitbook/assets/2 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Action Center / Notification : ข้อความแจ้งเตือน
 
-![](<../.gitbook/assets/3 (22).png>)
+<figure><img src="../.gitbook/assets/3 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู Action Center / Notification : ข้อความแจ้งเตือน
 
-![](<../.gitbook/assets/4 (22).png>)
+<figure><img src="../.gitbook/assets/4 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Home : หน้าแรก
 
-![รูปภาพที่ 4 หน้าจอแสดงผลเมนู Home : หน้าแรก](<../.gitbook/assets/5 (22).png>)
+<figure><img src="../.gitbook/assets/5 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 4 หน้าจอแสดงผลเมนู Home : หน้าแรก</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/6 (22).png>)
+<figure><img src="../.gitbook/assets/6 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Social Feed : ระบบฟีดสังคมออนไลน์
 
-![รูปภาพที่ 5 หน้าจอแสดงผลเมนู Social Feed : ระบบฟีดสังคมออนไลน์](<../.gitbook/assets/7 (22).png>)
+<figure><img src="../.gitbook/assets/7 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 5 หน้าจอแสดงผลเมนู Social Feed : ระบบฟีดสังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/8 (22).png>)
+<figure><img src="../.gitbook/assets/8 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน
 
-![รูปภาพที่ 6 หน้าจอแสดงผลเมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน](<../.gitbook/assets/9 (22).png>)
+<figure><img src="../.gitbook/assets/9 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 6 หน้าจอแสดงผลเมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/10 (22).png>)
+<figure><img src="../.gitbook/assets/10 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Social Post : ระบบโพสต์สังคมออนไลน์
 
-![รูปภาพที่ 7 หน้าจอแสดงผลเมนู Social Post : ระบบโพสต์สังคมออนไลน์](<../.gitbook/assets/11 (22).png>)
+<figure><img src="../.gitbook/assets/11 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 7 หน้าจอแสดงผลเมนู Social Post : ระบบโพสต์สังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/12 (22).png>)
+<figure><img src="../.gitbook/assets/12 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ
 
-![รูปภาพที่ 8 หน้าจอแสดงผลเมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ](<../.gitbook/assets/13 (22).png>)
+<figure><img src="../.gitbook/assets/13 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 8 หน้าจอแสดงผลเมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/14 (22).png>)
+<figure><img src="../.gitbook/assets/14 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Social Group : ระบบกลุ่มสังคมออนไลน์
 
-![รูปภาพที่ 9 หน้าจอแสดงผลเมนู Social Group : ระบบกลุ่มสังคมออนไลน์](<../.gitbook/assets/15 (22).png>)
+<figure><img src="../.gitbook/assets/15 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 9 หน้าจอแสดงผลเมนู Social Group : ระบบกลุ่มสังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/16 (22).png>)
+<figure><img src="../.gitbook/assets/16 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 \- เมนู Setting : การตั้งค่าข้อมูลผู้ใช้งานและอื่นๆ
 
-![รูปภาพที่ 10 หน้าจอแสดงผลเมนู Setting : การตั้งค่าข้อมูลผู้ใช้งานและอื่นๆ](<../.gitbook/assets/17 (22).png>)
+<figure><img src="../.gitbook/assets/17 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 10 หน้าจอแสดงผลเมนู Setting : การตั้งค่าข้อมูลผู้ใช้งานและอื่นๆ</strong></p></figcaption></figure>
 
 ### 1.2 ขั้นตอนการเปิดงานคดี <a href="#toc163137548" id="toc163137548"></a>
 
 หน่วยงานต้นเรื่องเป็นคนเปิดเรื่องรายงานคดี โดยที่สามารถระบุข้อมูลเพื่อเอาไปประกอบการฟ้องได้ และส่งไปให้กองต้นเรื่อง
 
-![รูปภาพที่ 11 หน้าจอระบบการเปิดงานคดี](<../.gitbook/assets/18 (22).png>)
+<figure><img src="../.gitbook/assets/18 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 11 หน้าจอระบบการเปิดงานคดี</strong></p></figcaption></figure>
 
 กดที่ปุ่ม “ +”
 
-![รูปภาพที่ 12 หน้าจอเพิ่มเอกสารใหม่](<../.gitbook/assets/19 (22).png>)
+<figure><img src="../.gitbook/assets/19 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 12 หน้าจอเพิ่มเอกสารใหม่</strong></p></figcaption></figure>
 
 1. เลือกที่แท็บ “เรื่อง”
 2. เลือก Drop down ขั้นตอนการทำงานเป็น “ขอให้ฝ่ายกฎหมายดำเนินคดี”
 3. กดที่ปุ่ม “บันทึก/ส่งงาน”
 
-![รูปภาพที่ 13 หน้าจอขั้นตอนการดำเนินงาน](<../.gitbook/assets/20 (22).png>)
+<figure><img src="../.gitbook/assets/20 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 13 หน้าจอขั้นตอนการดำเนินงาน</strong></p></figcaption></figure>
 
 1. กดที่ปุ่ม &#x20;
 
@@ -759,7 +759,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 ## 2. งานคดีพิเศษ คดีอาญา <a href="#toc171692414" id="toc171692414"></a>
 
-![รูปภาพที่ 108 หน้าจองานคดีพิเศษ](<../.gitbook/assets/0 (24).png>)
+<figure><img src="../.gitbook/assets/0 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 108 หน้าจองานคดีพิเศษ</strong></p></figcaption></figure>
 
 1. กดที่ปุ่ม (ไอคอน แก้ไข)
 
@@ -767,14 +767,14 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 &#x20;       ท้ายรายการคดีพิเศษที่ต้องการ
 
-![รูปภาพที่ 109 หน้าจอแก้ไขงานประเภทคดีอาญา](<../.gitbook/assets/2 (24).png>)
+<figure><img src="../.gitbook/assets/2 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 109 หน้าจอแก้ไขงานประเภทคดีอาญา</strong></p></figcaption></figure>
 
 **รูปภาพที่ 109** หน้าจอแก้ไขงานประเภทคดีอาญา
 
 1. เลือก drop down สถานะเอกสาร
 2. กดเพิ่มกรณีอื่นๆ “+ เพิ่มกรณีอื่น ๆ”
 
-![รูปภาพที่ 110 หน้าจอ Pop-up เพิ่มกรณีอื่นๆ](<../.gitbook/assets/3 (24).png>)
+<figure><img src="../.gitbook/assets/3 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 110 หน้าจอ Pop-up เพิ่มกรณีอื่นๆ</strong></p></figcaption></figure>
 
 &#x20;       2.3 กรอกข้อมูล “เลขที่สัญญา”
 
@@ -822,7 +822,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 4. กดเพิ่มชื่อ-นามสกุล ผู้ที่เกี่ยวข้องในการดำเนินคดี “+ เพิ่มชื่อ-นามสกุล ผู้ที่เกี่ยวข้องในการดำเนินคดี”
 
-![รูปภาพที่ 112 หน้าจอ Pop-up เพิ่มชื่อ-นามสกุล ผู้ที่เกี่ยวข้องในการดำเนินคดี](<../.gitbook/assets/5 (24).png>)
+<figure><img src="../.gitbook/assets/5 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 112 หน้าจอ Pop-up เพิ่มชื่อ-นามสกุล ผู้ที่เกี่ยวข้องในการดำเนินคดี</strong></p></figcaption></figure>
 
 &#x20;       4.1 กรอกข้อมูล “คำนำหน้า”
 
@@ -840,7 +840,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 ระบบจะแสดงข้อมูลนิติกรที่ได้รับมอบหมายงาน
 
-![รูปภาพที่ 113 หน้าจอรายการมอบหมายงาน คดีอาญา](<../.gitbook/assets/6 (24).png>)
+<figure><img src="../.gitbook/assets/6 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 113 หน้าจอรายการมอบหมายงาน คดีอาญา</strong></p></figcaption></figure>
 
 1. เลือกที่เมนู “มอบหมายงาน”
 2. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
@@ -858,7 +858,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 3. กรอกข้อมูล “วันที่ส่งสำนวนให้อัยการ”
 4. กดปุ่ม “+ เพิ่มรายการร้องทุกข์”
 
-![รูปภาพที่ 115 หน้าจอ Pop-up เพิ่มรายการร้องทุกข์](<../.gitbook/assets/9 (24).png>)
+<figure><img src="../.gitbook/assets/9 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 115 หน้าจอ Pop-up เพิ่มรายการร้องทุกข์</strong></p></figcaption></figure>
 
 &#x20;       4.1  กรอกข้อมูล “ชื่อ - นามสกุล”
 
@@ -866,7 +866,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 &#x20;       4.3  กดปุ่ม “+ เพิ่มฐานความผิด”
 
-![รูปภาพที่ 116 หน้าจอ Pop-up เพิ่มฐานความผิด](<../.gitbook/assets/10 (24).png>)
+<figure><img src="../.gitbook/assets/10 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 116 หน้าจอ Pop-up เพิ่มฐานความผิด</strong></p></figcaption></figure>
 
 &#x20;               4.3.1 กรอกข้อมูล “ประเภทฐานความผิด”
 
@@ -880,7 +880,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 &#x20;       4.4 กดปุ่ม “+ เพิ่มวันนัดรับทราบข้อหา”
 
-![รูปภาพที่ 117 หน้าจอ Pop-up เพิ่มวันนัดรับทราบข้อหา](<../.gitbook/assets/11 (24).png>)
+<figure><img src="../.gitbook/assets/11 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 117 หน้าจอ Pop-up เพิ่มวันนัดรับทราบข้อหา</strong></p></figcaption></figure>
 
 &#x20;               4.4.1 กรอกข้อมูล “วันนัดรับทราบข้อหา”
 
@@ -892,7 +892,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 &#x20;       4.5 กดปุ่ม “+ เพิ่มวันนัดสอบให้การ”
 
-![รูปภาพที่ 118 หน้าจอ Pop-up เพิ่มวันนัดสอบคำให้การ](<../.gitbook/assets/12 (24).png>)
+<figure><img src="../.gitbook/assets/12 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 118 หน้าจอ Pop-up เพิ่มวันนัดสอบคำให้การ</strong></p></figcaption></figure>
 
 &#x20;               4.5.1 กรอกข้อมูล “วันนัดสอบคำให้การ”
 
@@ -904,7 +904,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 &#x20;       4.6 กดปุ่ม “+ เพิ่มนัดสอบคำให้การเพิ่มเติมชั้นอัยการ”
 
-![รูปภาพที่ 119 หน้าจอ Pop-up เพิ่มนัดสอบคำให้การเพิ่มเติมชั้นอัยการ](<../.gitbook/assets/13 (24).png>)
+<figure><img src="../.gitbook/assets/13 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 119 หน้าจอ Pop-up เพิ่มนัดสอบคำให้การเพิ่มเติมชั้นอัยการ</strong></p></figcaption></figure>
 
 &#x20;               4.6.1 กรอกข้อมูล “นัดสอบคำให้การเพิ่มเติมชั้นอัยการ”
 
@@ -929,7 +929,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 ตรวจสอบเอกสาร และบันทึกข้อมูลการเตรียมคดีอาญา
 
-![รูปภาพที่ 120 หน้าจอแสดงการเตรียมคดีอาญา](<../.gitbook/assets/14 (24).png>)
+<figure><img src="../.gitbook/assets/14 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 120 หน้าจอแสดงการเตรียมคดีอาญา</strong></p></figcaption></figure>
 
 1. เลือกที่เมนู “การเตรียมคดีอาญา”
 2. กรอกข้อมูล “ประเภททรัพย์”
@@ -938,7 +938,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 5. กรอกข้อมูล “ฐานความผิด”
 6. กดปุ่ม “+ เพิ่มรายการฐานความผิดจำเลย”
 
-![รูปภาพที่ 121 หน้าจอ Pop-up เพิ่มรายการฐานความผิดจำเลย](<../.gitbook/assets/15 (24).png>)
+<figure><img src="../.gitbook/assets/15 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 121 หน้าจอ Pop-up เพิ่มรายการฐานความผิดจำเลย</strong></p></figcaption></figure>
 
 &#x20;       6.1 กรอกข้อมูล “หมายเหตุ”
 
@@ -949,7 +949,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 7. กรอกข้อมูล “รายการฐานความผิดจำเลย”
 8. กดปุ่ม “+ เพิ่มรายการขอเอกสารเพิ่มเติมจากหน่วยงานต้นเรื่อง”
 
-![รูปภาพที่ 122 หน้าจอ Pop-up เพิ่มรายการขอเอกสารเพิ่มเติมจากหน่วยงานต้นเรื่อง](<../.gitbook/assets/16 (24).png>)
+<figure><img src="../.gitbook/assets/16 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 122 หน้าจอ Pop-up เพิ่มรายการขอเอกสารเพิ่มเติมจากหน่วยงานต้นเรื่อง</strong></p></figcaption></figure>
 
 &#x20;       8.1  กรอกข้อมูล “วันขอเอกสารเพิ่มเติม”
 
@@ -963,13 +963,13 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 &#x20;       8.6  ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 
-![รูปภาพที่ 123 หน้าจอแสดงการเตรียมคดีอาญา (1)](<../.gitbook/assets/17 (24).png>)
+<figure><img src="../.gitbook/assets/17 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 123 หน้าจอแสดงการเตรียมคดีอาญา (1)</strong></p></figcaption></figure>
 
 9. กรอกข้อมูล “สำนักงานอัยการผู้รับผิดชอบ”
 10. กรอกข้อมูล “วันส่งเรื่องพนักงานอัยการ”
 11. กดปุ่ม “+ เพิ่มวันที่พนักงานอัยการสอบข้อเท็จจริง”
 
-![รูปภาพที่ 124 หน้าจอ Pop-up เพิ่มวันที่พนักงานอัยการสอบข้อเท็จจริง](<../.gitbook/assets/18 (24).png>)
+<figure><img src="../.gitbook/assets/18 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 124 หน้าจอ Pop-up เพิ่มวันที่พนักงานอัยการสอบข้อเท็จจริง</strong></p></figcaption></figure>
 
 &#x20;       11.1 กรอกข้อมูล “วันที่พนักงานอัยการนัดสอบข้อเท็จจริง”
 
@@ -981,7 +981,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 12. กดปุ่ม “+ เพิ่มวันที่ส่งเอกสารเพิ่มเติมต่อพนักงานอัยการ”
 
-![รูปภาพที่ 125 หน้าจอ Pop-up เพิ่มวันที่ส่งเอกสารเพิ่มเติมต่อพนักงานอัยการ](<../.gitbook/assets/19 (24).png>)
+<figure><img src="../.gitbook/assets/19 (24).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 125 หน้าจอ Pop-up เพิ่มวันที่ส่งเอกสารเพิ่มเติมต่อพนักงานอัยการ</strong></p></figcaption></figure>
 
 &#x20;       12.1 กรอกข้อมูล “วันที่ส่งเอกสารเพิ่มเติมต่อพนักงานอัยการ”
 

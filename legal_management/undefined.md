@@ -15,7 +15,7 @@
 
 ระบบจะแสดงหน้าจอ การเข้าสู่ระบบ โดยผู้ใช้งานจะต้องมีข้อมูล ชื่อผู้ใช้งานและรหัสผ่าน สามารถเข้า URL Production ได้ที่ [portal.nha.co.th](https://portal.nha.co.th/)
 
-![รูปภาพที่ 1 การเข้าใช้งานแอปพลิเคชัน Center](<../.gitbook/assets/0 (7).png>)
+<figure><img src="../.gitbook/assets/0 (7).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 1 การเข้าใช้งานแอปพลิเคชัน Center</strong></p></figcaption></figure>
 
 1. ระบุชื่อผู้ใช้
 2. ระบุรหัสผ่าน
@@ -27,49 +27,49 @@
 
 **ส่วนที่ 2** – เมนูลัด เป็นเมนูทางด้านซ้าย ประกอบไปด้วย
 
-![](<../.gitbook/assets/2 (7).png>)
+<figure><img src="../.gitbook/assets/2 (7).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 * &#x20;เมนู Action Center / Notification : ข้อความแจ้งเตือน
 
-![รูปภาพที่ 3 หน้าจอแสดงผลเมนู Action Center / Notification : ข้อความแจ้งเตือน](<../.gitbook/assets/3 (7).png>)
+<figure><img src="../.gitbook/assets/3 (7).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 3 หน้าจอแสดงผลเมนู Action Center / Notification : ข้อความแจ้งเตือน</strong></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/4 (20).png" alt=""><figcaption></figcaption></figure>
 
 * เมนู Home : หน้าแรก ระบบจะแสดงหน้าหลักของ Action Center
 
-![รูปภาพที่ 4 หน้าจอแสดงผลเมนู Home : หน้าแรก](<../.gitbook/assets/5 (7).png>)
+<figure><img src="../.gitbook/assets/5 (7).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 4 หน้าจอแสดงผลเมนู Home : หน้าแรก</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/6 (7).png>)
+<figure><img src="../.gitbook/assets/6 (7).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 * เมนู Social Feed : ระบบฟีดสังคมออนไลน์
 
-![รูปภาพที่ 5 หน้าจอแสดงผลเมนู Social Feed : ระบบฟีดสังคมออนไลน์](<../.gitbook/assets/8 (7).png>)
+<figure><img src="../.gitbook/assets/8 (7).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 5 หน้าจอแสดงผลเมนู Social Feed : ระบบฟีดสังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/9 (7).png>)
+<figure><img src="../.gitbook/assets/9 (7).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 * เมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน
 
-![รูปภาพที่ 6 หน้าจอแสดงผลเมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน](<../.gitbook/assets/10 (7).png>)
+<figure><img src="../.gitbook/assets/10 (7).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 6 หน้าจอแสดงผลเมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/11 (7).png>)
+<figure><img src="../.gitbook/assets/11 (7).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 * เมนู Social Post : ระบบโพสต์สังคมออนไลน์
 
-![รูปภาพที่ 7 หน้าจอแสดงผลเมนู Social Post : ระบบโพสต์สังคมออนไลน์](<../.gitbook/assets/13 (7).png>)
+<figure><img src="../.gitbook/assets/13 (7).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 7 หน้าจอแสดงผลเมนู Social Post : ระบบโพสต์สังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/14 (7).png>)
+<figure><img src="../.gitbook/assets/14 (7).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 * เมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่าง ๆ
 
-![รูปภาพที่ 8 หน้าจอแสดงผลเมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ](<../.gitbook/assets/15 (7).png>)
+<figure><img src="../.gitbook/assets/15 (7).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 8 หน้าจอแสดงผลเมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/16 (7).png>)
+<figure><img src="../.gitbook/assets/16 (7).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 * เมนู Social Group : ระบบกลุ่มสังคมออนไลน์
 
-![รูปภาพที่ 9 หน้าจอแสดงผลเมนู Social Group : ระบบกลุ่มสังคมออนไลน์](<../.gitbook/assets/17 (7).png>)
+<figure><img src="../.gitbook/assets/17 (7).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 9 หน้าจอแสดงผลเมนู Social Group : ระบบกลุ่มสังคมออนไลน์</strong></p></figcaption></figure>
 
-![](<../.gitbook/assets/18 (7).png>)
+<figure><img src="../.gitbook/assets/18 (7).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
 
 * เมนู Setting : การตั้งค่าข้อมูลผู้ใช้งานและอื่นๆ
 
