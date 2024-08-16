@@ -27,7 +27,7 @@ description: >-
 6. เมนู จองบ้านกับการเคหะแห่งชาติ
 7. เมนู ค้นหาโครงการ
 
-![รูปภาพที่ 2 หน้าจอส่วนประกอบ Landing Page หมายเลข 8-10](<../.gitbook/assets/1 (18).png>)
+<figure><img src="../.gitbook/assets/1 (18).png" alt="" width="563"><figcaption><p>รูปภาพที่ 2 หน้าจอส่วนประกอบ Landing Page หมายเลข 8-10</p></figcaption></figure>
 
 8. แท็บโครงการแนะนำ
 9. แท็บโครงการไฮไลท์
