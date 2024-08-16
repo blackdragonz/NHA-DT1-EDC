@@ -13,7 +13,11 @@ description: >-
 
 ผู้ใช้งานเรียก Browser และเข้าใช้งานระบบที่ URL : [uat-dt.nha.co.th](https://uat-dt.nha.co.th/nha\_dt/LandingPage) ระบบบริการลูกค้าออนไลน์ (Customer Service) ระบบจะแสดงหน้า Landing Page โดยมีส่วนประกอบดังต่อไปนี้
 
-![รูปภาพที่ 1 หน้าจอส่วนประกอบ Landing Page หมายเลข 1-7](<../.gitbook/assets/0 (18).png>)
+<div data-full-width="true">
+
+<img src="../.gitbook/assets/spaces_Pb6tfe4QvKp3bZKUHBWH_uploads_NEoU28u1Lh2p4IW9TUKj_0.png" alt="รูปภาพที่ 1 หน้าจอส่วนประกอบ Landing Page หมายเลข 1-7" width="563">
+
+</div>
 
 1. &#x20;เมนู หน้าแรก
 2. เมนู Market Place
