@@ -15,7 +15,7 @@ description: >-
 
 <div data-full-width="true">
 
-<img src="../.gitbook/assets/spaces_Pb6tfe4QvKp3bZKUHBWH_uploads_NEoU28u1Lh2p4IW9TUKj_0.png" alt="รูปภาพที่ 1 หน้าจอส่วนประกอบ Landing Page หมายเลข 1-7" width="563">
+<figure><img src="../.gitbook/assets/spaces_Pb6tfe4QvKp3bZKUHBWH_uploads_NEoU28u1Lh2p4IW9TUKj_0.png" alt="" width="563"><figcaption><p>รูปภาพที่ 1 หน้าจอส่วนประกอบ Landing Page หมายเลข 1-7</p></figcaption></figure>
 
 </div>
 
