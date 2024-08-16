@@ -11,7 +11,11 @@ description: >-
 
 เข้าใช้งานระบบ คลิกที่เมนู “แอปพลิเคชันของฉัน” จากนั้นคลิก “Asset Management”
 
+<div data-full-width="true">
+
 <figure><img src=".gitbook/assets/pic1.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 1</strong> หน้าจอแอปพลิเคของฉัน – Asset Management</p></figcaption></figure>
+
+</div>
 
 ### 1.1 ระบบแสดงหน้า Asset Management&#x20;
 

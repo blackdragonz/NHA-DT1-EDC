@@ -11,7 +11,11 @@ description: >-
 
 เข้าใช้งานระบบที่ คลิกที่เมนู “แอปพลิเคชันของฉัน” จากนั้นคลิก “Back Office”
 
-![รูปภาพที่ 1 หน้าจอแอปพลิเคชันของฉัน – Back Office](<../.gitbook/assets/0 (17).png>)
+<div data-full-width="true">
+
+<img src="../.gitbook/assets/0 (17).png" alt="รูปภาพที่ 1 หน้าจอแอปพลิเคชันของฉัน – Back Office" width="563">
+
+</div>
 
 ระบบจะแสดงหน้า Back office ผู้ใช้งานสามารถจัดการข้อมูลต่างๆได้ โดยมีหัวข้อดังต่อไปนี้
 
