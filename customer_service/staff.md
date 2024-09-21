@@ -104,19 +104,19 @@ description: >-
 
 <figure><img src="../.gitbook/assets/13 (17).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 14 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – ปุ่มตัวกรอง</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/14 (17).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 15 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – หน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (17).png" alt="" width="536"><figcaption><p><strong>รูปภาพที่ 15 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – หน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง</strong></p></figcaption></figure>
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/15 (17).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 16 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – ตัวกรอง</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15 (17).png" alt=""><figcaption><p><strong>รูปภาพที่ 16 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – ตัวกรอง</strong></p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/16 (17).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 17 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – ปุ่มล้างตัวกรอง</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (17).png" alt=""><figcaption><p><strong>รูปภาพที่ 17 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – ปุ่มล้างตัวกรอง</strong></p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/17 (17).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 18 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/17 (17).png" alt=""><figcaption><p><strong>รูปภาพที่ 18 หน้าจอการตั้งค่าเปิด/ปิดโครงการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</strong></p></figcaption></figure>
 
 #### **2.3.3 การเพิ่มกำหนดการเปิด/ปิดโครงการ**
 
@@ -166,15 +166,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-066.png" alt="" width="111"><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอสรุปข้อมูลการจองบ้าน – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-066.png" alt=""><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอสรุปข้อมูลการจองบ้าน – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-067.png" alt="" width="111"><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอสรุปข้อมูลการจองบ้าน – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-067.png" alt=""><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอสรุปข้อมูลการจองบ้าน – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-070.png" alt="" width="111"><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอสรุปข้อมูลการจองบ้าน – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-070.png" alt=""><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอสรุปข้อมูลการจองบ้าน – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **2.4.3 สรุปข้อมูลการจองบ้าน**
 
@@ -234,7 +234,7 @@ description: >-
 
 ระบบแสดงหน้าต่างป็อบอัพ (Pop-up) แบบแปลนชั้น ผู้ใช้งานกรอกรายละเอียดแบบแปลนชั้น จากนั้นคลิกปุ่ม “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-094.png" alt="" width="199"><figcaption><p><strong>รูปภาพที่ 42</strong> หน้าจอจัดการข้อมูลโครงการสำหรับจองสิทธิ์ – หน้าต่างป็อบอัพ (Pop-up) แบบแปลนชั้น</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-094.png" alt=""><figcaption><p><strong>รูปภาพที่ 42</strong> หน้าจอจัดการข้อมูลโครงการสำหรับจองสิทธิ์ – หน้าต่างป็อบอัพ (Pop-up) แบบแปลนชั้น</p></figcaption></figure>
 
 ระบบจะทำการเพิ่มข้อมูลแปลนห้องที่ตารางรายการแบบแปลนชั้น ผู้ใช้งานสามารถแก้ไขและลบรายการได้ โดยการคลิกไอคอน “ดินสอ” และ “ถังขยะ”
 
@@ -248,7 +248,7 @@ description: >-
 
 ระบบแสดงหน้าต่างป็อบอัพ (Pop-up) อาชีพที่สามารถจองสิทธิ์โครงการ ผู้ใช้งานเลือกอาชีพที่สามารถจองสิทธิ์โครงการ จากนั้นคลิกปุ่ม “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-099.png" alt="" width="410"><figcaption><p><strong>รูปภาพที่ 45</strong> หน้าจอจัดการข้อมูลโครงการสำหรับจองสิทธิ์ – หน้าต่างป็อบอัพ (Pop-up) อาชีพที่สามารถจองสิทธิ์โครงการ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-099.png" alt=""><figcaption><p><strong>รูปภาพที่ 45</strong> หน้าจอจัดการข้อมูลโครงการสำหรับจองสิทธิ์ – หน้าต่างป็อบอัพ (Pop-up) อาชีพที่สามารถจองสิทธิ์โครงการ</p></figcaption></figure>
 
 ระบบจะทำการเพิ่มข้อมูลแปลนห้องที่ตารางรายการอาชีพที่สามารถจองสิทธิ์โครงการ ผู้ใช้งานสามารถแก้ไขและลบรายการได้ โดยการคลิกไอคอน “ดินสอ” และ “ถังขยะ”
 
@@ -298,15 +298,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-123.png" alt="" width="95"><figcaption><p><strong>รูปภาพที่ 55</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-123.png" alt=""><figcaption><p><strong>รูปภาพที่ 55</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-124.png" alt="" width="96"><figcaption><p><strong>รูปภาพที่ 56</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-124.png" alt=""><figcaption><p><strong>รูปภาพที่ 56</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-127.png" alt="" width="97"><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-127.png" alt=""><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **3.2.3 การส่งออกข้อมูล**
 
@@ -322,11 +322,11 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป็อพอัพ (Pop-up) การสุ่มอนุมัติ ผู้ใช้งานเลือกโครงการ / แบบแปลนและจำนวนที่ต้องการสุ่ม จากนั้น คลิกปุ่ม “สุ่ม”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-134.png" alt="" width="312"><figcaption><p><strong>รูปภาพที่ 60</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – หน้าต่างป็อบอัพ (Pop-up) การสุ่มอนุมัติ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-134.png" alt=""><figcaption><p><strong>รูปภาพที่ 60</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – หน้าต่างป็อบอัพ (Pop-up) การสุ่มอนุมัติ</p></figcaption></figure>
 
 ระบบจะแสดงหน้าต่างป็อพอัพ (Pop-up) ยืนยันการสุ่มอนุมัติ จากนั้น คลิกปุ่ม “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-137.png" alt="" width="395"><figcaption><p><strong>รูปภาพที่ 61</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – หน้าต่างป็อบอัพ (Pop-up) ยืนยันการสุ่มอนุมัติ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-137.png" alt=""><figcaption><p><strong>รูปภาพที่ 61</strong> หน้าจอจัดการข้อมูลจองสิทธิ์โครงการ – หน้าต่างป็อบอัพ (Pop-up) ยืนยันการสุ่มอนุมัติ</p></figcaption></figure>
 
 #### **3.2.5 การอนุมัติและไม่อนุมัติการจองสิทธิ์โครงการ**
 
@@ -366,15 +366,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-155.png" alt="" width="179"><figcaption><p><strong>รูปภาพที่ 69</strong> หน้าจอสรุปข้อมูลความสนใจในโครงการ – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-155.png" alt=""><figcaption><p><strong>รูปภาพที่ 69</strong> หน้าจอสรุปข้อมูลความสนใจในโครงการ – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-156.png" alt="" width="188"><figcaption><p><strong>รูปภาพที่ 70</strong> หน้าจอสรุปข้อมูลความสนใจในโครงการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-156.png" alt=""><figcaption><p><strong>รูปภาพที่ 70</strong> หน้าจอสรุปข้อมูลความสนใจในโครงการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-159.png" alt="" width="191"><figcaption><p><strong>รูปภาพที่ 71</strong> หน้าจอสรุปข้อมูลความสนใจในโครงการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-159.png" alt=""><figcaption><p><strong>รูปภาพที่ 71</strong> หน้าจอสรุปข้อมูลความสนใจในโครงการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **3.3.3 สรุปข้อมูลการจองสิทธิ์โครงการ (Pre-sale)**
 
@@ -412,15 +412,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-174.png" alt="" width="182"><figcaption><p><strong>รูปภาพที่ 78</strong> หน้าจอจัดการ/ติดตาม ข้อมูลการติดต่อจากผู้ใช้งาน – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-174.png" alt=""><figcaption><p><strong>รูปภาพที่ 78</strong> หน้าจอจัดการ/ติดตาม ข้อมูลการติดต่อจากผู้ใช้งาน – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-175.png" alt="" width="187"><figcaption><p><strong>รูปภาพที่ 79</strong> หน้าจอจัดการ/ติดตาม ข้อมูลการติดต่อจากผู้ใช้งาน – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-175.png" alt=""><figcaption><p><strong>รูปภาพที่ 79</strong> หน้าจอจัดการ/ติดตาม ข้อมูลการติดต่อจากผู้ใช้งาน – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-178.png" alt="" width="187"><figcaption><p><strong>รูปภาพที่ 80</strong> หน้าจอจัดการ/ติดตาม ข้อมูลการติดต่อจากผู้ใช้งาน – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-178.png" alt=""><figcaption><p><strong>รูปภาพที่ 80</strong> หน้าจอจัดการ/ติดตาม ข้อมูลการติดต่อจากผู้ใช้งาน – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **4.1.3 การเพิ่มข้อมูลการติดต่อจากผู้ใช้งาน**
 
@@ -484,7 +484,7 @@ description: >-
 
 ### 5.1 จัดการไฮไลท์ข่าวสาร
 
-ไปที่เมนูข่าวสารจากนั้นคลิก “จัดการไฮไลท์ข่าวสาร” ในเมนูนี้สามารถเพิ่มข่าวสารที่น่าสนใจ ในหน้าแรกของเว็บ Customer Service ได้&#x20;
+ไปที่เมนูข่าวสารจากนั้นคลิก “จัดการไฮไลท์ข่าวสาร” ในเมนูนี้สามารถเพิ่มข่าวสารที่น่าสนใจ ในหน้าแรกของเว็บ Customer Service ได้
 
 <figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-204.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 92</strong> หน้าจอสจัดการไฮไลท์ข่าวสาร <em>–</em> รายละเอียดข่าวไฮไลท์</p></figcaption></figure>
 
@@ -510,7 +510,7 @@ description: >-
 
 ### 5.2 จัดการแท็บข่าวสาร
 
-ไปที่เมนูข่าวสารจากนั้นคลิก “จัดการแท็บข่าวสาร” ในเมนูนี้สามารถเพิ่มแท็บเมนูข่าวสารในหน้าแรกของเว็บ Customer Service ได้&#x20;
+ไปที่เมนูข่าวสารจากนั้นคลิก “จัดการแท็บข่าวสาร” ในเมนูนี้สามารถเพิ่มแท็บเมนูข่าวสารในหน้าแรกของเว็บ Customer Service ได้
 
 <figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-211.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 97</strong> หน้าจอสจัดการแท็บข่าวสาร <em>–</em> รายละเอียดแท็บข่าวสาร</p></figcaption></figure>
 
@@ -556,15 +556,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-230.png" alt="" width="167"><figcaption><p><strong>รูปภาพที่ 106</strong> หน้าจอสรุปจำนวนผู้ใช้งานข่าวสาร – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-230.png" alt=""><figcaption><p><strong>รูปภาพที่ 106</strong> หน้าจอสรุปจำนวนผู้ใช้งานข่าวสาร – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-231.png" alt="" width="168"><figcaption><p><strong>รูปภาพที่ 107</strong> หน้าจอสรุปจำนวนผู้ใช้งานข่าวสาร – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-231.png" alt=""><figcaption><p><strong>รูปภาพที่ 107</strong> หน้าจอสรุปจำนวนผู้ใช้งานข่าวสาร – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-234.png" alt="" width="167"><figcaption><p><strong>รูปภาพที่ 108</strong> หน้าจอสรุปจำนวนผู้ใช้งานข่าวสาร – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-234.png" alt=""><figcaption><p><strong>รูปภาพที่ 108</strong> หน้าจอสรุปจำนวนผู้ใช้งานข่าวสาร – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **5.3.3 สรุปจำนวนผู้ใช้งานข่าวสาร**
 
@@ -596,15 +596,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-248.png" alt="" width="188"><figcaption><p><strong>รูปภาพที่ 114</strong> หน้าจอจัดการการติดต่อของแต่ละโครงการ – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-248.png" alt=""><figcaption><p><strong>รูปภาพที่ 114</strong> หน้าจอจัดการการติดต่อของแต่ละโครงการ – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-249.png" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 115</strong> หน้าจอจัดการการติดต่อของแต่ละโครงการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-249.png" alt=""><figcaption><p><strong>รูปภาพที่ 115</strong> หน้าจอจัดการการติดต่อของแต่ละโครงการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-252.png" alt="" width="183"><figcaption><p><strong>รูปภาพที่ 116</strong> หน้าจอจัดการการติดต่อของแต่ละโครงการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-252.png" alt=""><figcaption><p><strong>รูปภาพที่ 116</strong> หน้าจอจัดการการติดต่อของแต่ละโครงการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **6.1.3 การเพิ่มข้อมูลการติดต่อ**
 
@@ -664,15 +664,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-278.png" alt="" width="185"><figcaption><p><strong>รูปภาพที่ 128</strong> หน้าจอจัดการพัสดุ – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-278.png" alt=""><figcaption><p><strong>รูปภาพที่ 128</strong> หน้าจอจัดการพัสดุ – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-279.png" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 129</strong> หน้าจอจัดการพัสดุ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-279.png" alt=""><figcaption><p><strong>รูปภาพที่ 129</strong> หน้าจอจัดการพัสดุ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-282.png" alt="" width="184"><figcaption><p><strong>รูปภาพที่ 130</strong> หน้าจอจัดการพัสดุ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-282.png" alt=""><figcaption><p><strong>รูปภาพที่ 130</strong> หน้าจอจัดการพัสดุ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **6.2.3 การเพิ่มพัสดุ**
 
@@ -702,7 +702,7 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) QR Code
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-295.png" alt="" width="359"><figcaption><p><strong>รูปภาพที่ 136</strong> หน้าจอจัดการพัสดุ – หน้าต่างป๊อบอัพ (Pop-up) QR Code</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-295.png" alt=""><figcaption><p><strong>รูปภาพที่ 136</strong> หน้าจอจัดการพัสดุ – หน้าต่างป๊อบอัพ (Pop-up) QR Code</p></figcaption></figure>
 
 ### 6.3 จัดการแบบสอบถาม
 
@@ -726,19 +726,19 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-306.png" alt="" width="187"><figcaption><p><strong>รูปภาพที่ 141</strong> หน้าจอจัดการแบบสอบถาม – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-306.png" alt=""><figcaption><p><strong>รูปภาพที่ 141</strong> หน้าจอจัดการแบบสอบถาม – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-307.png" alt="" width="187"><figcaption><p><strong>รูปภาพที่ 142</strong> หน้าจอจัดการแบบสอบถาม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-307.png" alt=""><figcaption><p><strong>รูปภาพที่ 142</strong> หน้าจอจัดการแบบสอบถาม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-310.png" alt="" width="201"><figcaption><p><strong>รูปภาพที่ 143</strong> หน้าจอจัดการแบบสอบถาม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-310.png" alt=""><figcaption><p><strong>รูปภาพที่ 143</strong> หน้าจอจัดการแบบสอบถาม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **6.3.3 การเพิ่มโครงการและแบบสอบถาม**
 
-การเพิ่มเพิ่มโครงการและแบบสอบถาม คลิกปุ่ม “เพิ่มโครงการและแบบสอบถาม_”_
+การเพิ่มเพิ่มโครงการและแบบสอบถาม คลิกปุ่ม “เพิ่มโครงการและแบบสอบถาม\_”\_
 
 <figure><img src="../.gitbook/assets/143.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 144</strong> หน้าจอจัดการแบบสอบถาม – ปุ่มเพิ่มโครงการและแบบสอบถาม</p></figcaption></figure>
 
@@ -794,15 +794,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-337.png" alt="" width="187"><figcaption><p><strong>รูปภาพที่ 155</strong> หน้าจอสรุปข้อมูลแบบสอบถาม – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-337.png" alt=""><figcaption><p><strong>รูปภาพที่ 155</strong> หน้าจอสรุปข้อมูลแบบสอบถาม – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-338.png" alt="" width="185"><figcaption><p><strong>รูปภาพที่ 156</strong> หน้าจอสรุปข้อมูลแบบสอบถาม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-338.png" alt=""><figcaption><p><strong>รูปภาพที่ 156</strong> หน้าจอสรุปข้อมูลแบบสอบถาม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-341.png" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 157</strong> หน้าจอสรุปข้อมูลแบบสอบถาม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-341.png" alt=""><figcaption><p><strong>รูปภาพที่ 157</strong> หน้าจอสรุปข้อมูลแบบสอบถาม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **6.4.3 การออกรายงาน (Export Excel)**
 
@@ -840,15 +840,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-356.png" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 164</strong> หน้าจอจัดการร้านค้า – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-356.png" alt=""><figcaption><p><strong>รูปภาพที่ 164</strong> หน้าจอจัดการร้านค้า – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-357.png" alt="" width="185"><figcaption><p><strong>รูปภาพที่ 165</strong> หน้าจอจัดการร้านค้า – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-357.png" alt=""><figcaption><p><strong>รูปภาพที่ 165</strong> หน้าจอจัดการร้านค้า – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-360.png" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 166</strong> หน้าจอจัดการร้านค้า – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-360.png" alt=""><figcaption><p><strong>รูปภาพที่ 166</strong> หน้าจอจัดการร้านค้า – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **7.1.3 การอนุมัติและไม่อนุมัติร้านค้า**
 
@@ -858,7 +858,7 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ยืนยันการเปลี่ยนสถานะการใช้งาน จากนั้นคลิกปุ่ม “เปลี่ยน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-364.png" alt="" width="335"><figcaption><p><strong>รูปภาพที่ 168</strong> หน้าจอจัดการร้านค้า – หน้าต่างป๊อบอัพ (Pop-up) ยืนยันการเปลี่ยนสถานะการใช้งาน (อนุมัติ)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-364.png" alt=""><figcaption><p><strong>รูปภาพที่ 168</strong> หน้าจอจัดการร้านค้า – หน้าต่างป๊อบอัพ (Pop-up) ยืนยันการเปลี่ยนสถานะการใช้งาน (อนุมัติ)</p></figcaption></figure>
 
 **การไม่อนุมัติ** ผู้ใช้งานคลิกเลือกรายการที่ต้องการ จากนั้น คลิกปุ่ม “ไม่อนุมัติ”
 
@@ -866,7 +866,7 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ยืนยันการเปลี่ยนสถานะการใช้งาน จากนั้นคลิกปุ่ม “เปลี่ยน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-368.png" alt="" width="335"><figcaption><p><strong>รูปภาพที่ 170</strong> หน้าจอจัดการร้านค้า – หน้าต่างป๊อบอัพ (Pop-up) ยืนยันการเปลี่ยนสถานะการใช้งาน (ไม่อนุมัติ)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-368.png" alt=""><figcaption><p><strong>รูปภาพที่ 170</strong> หน้าจอจัดการร้านค้า – หน้าต่างป๊อบอัพ (Pop-up) ยืนยันการเปลี่ยนสถานะการใช้งาน (ไม่อนุมัติ)</p></figcaption></figure>
 
 #### **7.1.4 การดูรายละเอียดร้านค้า**
 
@@ -896,15 +896,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/175.png" alt="" width="222"><figcaption><p><strong>รูปภาพที่ 176</strong> หน้าจอตั้งค่าร้านค้าแนะนำ – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/175.png" alt=""><figcaption><p><strong>รูปภาพที่ 176</strong> หน้าจอตั้งค่าร้านค้าแนะนำ – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-383.png" alt="" width="185"><figcaption><p><strong>รูปภาพที่ 177</strong> หน้าจอตั้งค่าร้านค้าแนะนำ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-383.png" alt=""><figcaption><p><strong>รูปภาพที่ 177</strong> หน้าจอตั้งค่าร้านค้าแนะนำ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-386.png" alt="" width="185"><figcaption><p><strong>รูปภาพที่ 178</strong> หน้าจอตั้งค่าร้านค้าแนะนำ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-386.png" alt=""><figcaption><p><strong>รูปภาพที่ 178</strong> หน้าจอตั้งค่าร้านค้าแนะนำ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **7.2.3 การเพิ่มไฮไลท์**
 
@@ -960,15 +960,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-409.png" alt="" width="212"><figcaption><p><strong>รูปภาพที่ 189</strong> หน้าจอจัดการระดับร้านค้า – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-409.png" alt=""><figcaption><p><strong>รูปภาพที่ 189</strong> หน้าจอจัดการระดับร้านค้า – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-410.png" alt="" width="215"><figcaption><p><strong>รูปภาพที่ 190</strong> หน้าจอจัดการระดับร้านค้า – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-410.png" alt=""><figcaption><p><strong>รูปภาพที่ 190</strong> หน้าจอจัดการระดับร้านค้า – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-413.png" alt="" width="210"><figcaption><p><strong>รูปภาพที่ 191</strong> หน้าจอหน้าจอจัดการระดับร้านค้า – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-413.png" alt=""><figcaption><p><strong>รูปภาพที่ 191</strong> หน้าจอหน้าจอจัดการระดับร้านค้า – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **7.3.3 การเพิ่มระดับการลงทะเบียนร้านค้า**
 
@@ -1008,15 +1008,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-431.png" alt="" width="163"><figcaption><p><strong>รูปภาพที่ 199</strong> หน้าจอสรุปจำนวนคำสั่งซื้อสินค้าและบริการ – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-431.png" alt=""><figcaption><p><strong>รูปภาพที่ 199</strong> หน้าจอสรุปจำนวนคำสั่งซื้อสินค้าและบริการ – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-432.png" alt="" width="163"><figcaption><p><strong>รูปภาพที่ 200</strong> หน้าจอสรุปจำนวนคำสั่งซื้อสินค้าและบริการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-432.png" alt=""><figcaption><p><strong>รูปภาพที่ 200</strong> หน้าจอสรุปจำนวนคำสั่งซื้อสินค้าและบริการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-435.png" alt="" width="169"><figcaption><p><strong>รูปภาพที่ 201</strong> หน้าจอสรุปจำนวนคำสั่งซื้อสินค้าและบริการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-435.png" alt=""><figcaption><p><strong>รูปภาพที่ 201</strong> หน้าจอสรุปจำนวนคำสั่งซื้อสินค้าและบริการ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 **7.4.3 สรุปจำนวนคำสั่งซื้อสินค้าและบริการ**
 
@@ -1048,15 +1048,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-449.png" alt="" width="206"><figcaption><p><strong>รูปภาพที่ 207</strong> หน้าจอจัดการสิทธิประโยชน์ – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-449.png" alt=""><figcaption><p><strong>รูปภาพที่ 207</strong> หน้าจอจัดการสิทธิประโยชน์ – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-450.png" alt="" width="210"><figcaption><p><strong>รูปภาพที่ 208</strong> หน้าจอจัดการสิทธิประโยชน์ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-450.png" alt=""><figcaption><p><strong>รูปภาพที่ 208</strong> หน้าจอจัดการสิทธิประโยชน์ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-453.png" alt="" width="212"><figcaption><p><strong>รูปภาพที่ 209</strong> หน้าจอจัดการสิทธิประโยชน์ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-453.png" alt=""><figcaption><p><strong>รูปภาพที่ 209</strong> หน้าจอจัดการสิทธิประโยชน์ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **8.1.3 การเพิ่มสิทธิประโยชน์**
 
@@ -1102,15 +1102,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-475.png" alt="" width="188"><figcaption><p><strong>รูปภาพที่ 218</strong> หน้าจอจัดการคูปอง– ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-475.png" alt=""><figcaption><p><strong>รูปภาพที่ 218</strong> หน้าจอจัดการคูปอง– ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-476.png" alt="" width="179"><figcaption><p><strong>รูปภาพที่ 219</strong> หน้าจอจัดการคูปอง – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-476.png" alt=""><figcaption><p><strong>รูปภาพที่ 219</strong> หน้าจอจัดการคูปอง – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-479.png" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 220</strong> หน้าจอจัดการคูปอง– ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-479.png" alt=""><figcaption><p><strong>รูปภาพที่ 220</strong> หน้าจอจัดการคูปอง– ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **8.2.3 การเพิ่มคูปอง**
 
@@ -1156,15 +1156,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-498.png" alt="" width="209"><figcaption><p><strong>รูปภาพที่ 229</strong> หน้าจอนำเข้าคูปอง – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-498.png" alt=""><figcaption><p><strong>รูปภาพที่ 229</strong> หน้าจอนำเข้าคูปอง – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-499.png" alt="" width="211"><figcaption><p><strong>รูปภาพที่ 230</strong> หน้าจอนำเข้าคูปอง – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-499.png" alt=""><figcaption><p><strong>รูปภาพที่ 230</strong> หน้าจอนำเข้าคูปอง – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-502.png" alt="" width="213"><figcaption><p><strong>รูปภาพที่ 231</strong> หน้าจอนำเข้าคูปอง – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-502.png" alt=""><figcaption><p><strong>รูปภาพที่ 231</strong> หน้าจอนำเข้าคูปอง – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **8.3.3 การเพิ่มคูปอง**
 
@@ -1222,15 +1222,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-527.png" alt="" width="183"><figcaption><p><strong>รูปภาพที่ 242</strong> หน้าจอจัดการคะแนนสะสม – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-527.png" alt=""><figcaption><p><strong>รูปภาพที่ 242</strong> หน้าจอจัดการคะแนนสะสม – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-528.png" alt="" width="185"><figcaption><p><strong>รูปภาพที่ 243</strong> หน้าจอจัดการคะแนนสะสม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-528.png" alt=""><figcaption><p><strong>รูปภาพที่ 243</strong> หน้าจอจัดการคะแนนสะสม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-531.png" alt="" width="182"><figcaption><p><strong>รูปภาพที่ 244</strong> หน้าจอจัดการคะแนนสะสม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-531.png" alt=""><figcaption><p><strong>รูปภาพที่ 244</strong> หน้าจอจัดการคะแนนสะสม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **9.1.3 การเพิ่มคะแนนสะสม**
 
@@ -1274,15 +1274,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-553.png" alt="" width="164"><figcaption><p><strong>รูปภาพที่ 253</strong> หน้าจอประวัติการใช้คะแนนสะสม – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-553.png" alt=""><figcaption><p><strong>รูปภาพที่ 253</strong> หน้าจอประวัติการใช้คะแนนสะสม – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-554.png" alt="" width="167"><figcaption><p><strong>รูปภาพที่ 254</strong> หน้าจอประวัติการใช้คะแนนสะสม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-554.png" alt=""><figcaption><p><strong>รูปภาพที่ 254</strong> หน้าจอประวัติการใช้คะแนนสะสม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-557.png" alt="" width="167"><figcaption><p><strong>รูปภาพที่ 255</strong> หน้าจอประวัติการใช้คะแนนสะสม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-557.png" alt=""><figcaption><p><strong>รูปภาพที่ 255</strong> หน้าจอประวัติการใช้คะแนนสะสม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 * การสร้างรายงาน
 
@@ -1316,15 +1316,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-574.png" alt="" width="179"><figcaption><p><strong>รูปภาพที่ 262</strong> หน้าจอคะแนนสะสม – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-574.png" alt=""><figcaption><p><strong>รูปภาพที่ 262</strong> หน้าจอคะแนนสะสม – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-575.png" alt="" width="179"><figcaption><p><strong>รูปภาพที่ 263</strong> หน้าจอคะแนนสะสม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-575.png" alt=""><figcaption><p><strong>รูปภาพที่ 263</strong> หน้าจอคะแนนสะสม – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-578.png" alt="" width="179"><figcaption><p><strong>รูปภาพที่ 264</strong> หน้าจอคะแนนสะสม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-578.png" alt=""><figcaption><p><strong>รูปภาพที่ 264</strong> หน้าจอคะแนนสะสม – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### **9.1.6 การดูรายละเอียดคะแนนสะสม**
 
@@ -1334,7 +1334,7 @@ description: >-
 
 ### 9.2 ตั้งค่าเงื่อนไขการได้รับคะแนนสะสม
 
-ไปที่เมนูคะแนน จากนั้นคลิก “ตั้งค่าเงื่อนไขการได้รับคะแนนสะสม”&#x20;
+ไปที่เมนูคะแนน จากนั้นคลิก “ตั้งค่าเงื่อนไขการได้รับคะแนนสะสม”
 
 <figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(Back-Office)_V2.0.0.pdf-image-584.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 266</strong> หน้าจอตั้งค่าเงื่อนไขการได้รับคะแนนสะสม</p></figcaption></figure>
 

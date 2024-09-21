@@ -17,7 +17,7 @@ description: >-
 
 </div>
 
-### 1.1 ระบบแสดงหน้า Asset Management&#x20;
+### 1.1 ระบบแสดงหน้า Asset Management
 
 ผู้ใช้งานสามารถจัดการข้อมูลต่าง ๆ ได้ โดยมีเมนูดังนี้
 
@@ -59,41 +59,49 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/pic8.PNG" alt="" width="157"><figcaption><p><strong>รูปภาพที่ 8</strong> หน้าจอที่ดิน ยังไม่จัดประโยชน์ - ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<div data-full-width="false">
+
+<figure><img src=".gitbook/assets/pic8.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 8</strong> หน้าจอที่ดิน ยังไม่จัดประโยชน์ - ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+
+</div>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือก
 
-<figure><img src=".gitbook/assets/pic9.PNG" alt="" width="157"><figcaption><p><strong>รูปภาพที่ 9</strong> หน้าจอที่ดิน ยังไม่จัดประโยชน์ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/pic9.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 9</strong> หน้าจอที่ดิน ยังไม่จัดประโยชน์ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+
+</div>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/pic10.PNG" alt="" width="157"><figcaption><p><strong>รูปภาพที่ 10</strong> หน้าจอที่ดิน ยังไม่จัดประโยชน์ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic10.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 10</strong> หน้าจอที่ดิน ยังไม่จัดประโยชน์ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “เปลี่ยนตัวกรอง” เพื่อเปลี่ยนข้อมูลการค้นหาโครงการ
 
-<figure><img src=".gitbook/assets/pic11.PNG" alt="" width="331"><figcaption><p>รูปภาพที่ 11 หน้าจอที่ดิน ยังไม่จัดประโยชน์ – ปุ่มเปลี่ยนตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic11.PNG" alt="" width="497"><figcaption><p>รูปภาพที่ 11 หน้าจอที่ดิน ยังไม่จัดประโยชน์ – ปุ่มเปลี่ยนตัวกรอง</p></figcaption></figure>
 
 #### **2.1.3 ดูรายละเอียดโครงการ**
 
 คลิกปุ่ม “ดูรายละเอียด” เพื่อดูข้อมูลรายละเอียดของโครงการ
 
-<figure><img src=".gitbook/assets/pic12 (1).PNG" alt="" width="373"><figcaption><p><strong>รูปภาพที่ 12</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic12 (1).PNG" alt="" width="560"><figcaption><p><strong>รูปภาพที่ 12</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์</p></figcaption></figure>
 
-#### **2.1.4 ระบบแสดงหน้าจอรายละเอียดโครงการ**&#x20;
+#### **2.1.4 ระบบแสดงหน้าจอรายละเอียดโครงการ**
 
 ผู้ใช้งานสามารถคลิกปุ่ม “แก้ไข” เพื่อแก้ไขข้อมูลเนื้อที่ตามแผนได้
 
-<figure><img src=".gitbook/assets/pic13.PNG" alt="" width="337"><figcaption><p><strong>รูปภาพที่ 13</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์ – ปุ่มแก้ไข</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic13.PNG" alt="" width="505"><figcaption><p><strong>รูปภาพที่ 13</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์ – ปุ่มแก้ไข</p></figcaption></figure>
 
 ผู้ใช้งานสามารถคลิกปุ่ม “บันทึก” เพื่อบันทึกข้อมูลเนื้อที่ตามแผนได้
 
-<figure><img src=".gitbook/assets/pic14 (1).PNG" alt="" width="375"><figcaption><p><strong>รูปภาพที่ 14</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์ – ปุ่มบันทึก</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic14 (1).PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 14</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์ – ปุ่มบันทึก</p></figcaption></figure>
 
-#### **2.1.5 ระบบแสดงหน้าจอรายละเอียดโครงการ**&#x20;
+#### **2.1.5 ระบบแสดงหน้าจอรายละเอียดโครงการ**
 
 ผู้ใช้งานสามารถคลิกปุ่ม “แก้ไข” เพื่อแก้ไขข้อมูลโครงการได้
 
-<figure><img src=".gitbook/assets/pic15.PNG" alt="" width="375"><figcaption><p><strong>รูปภาพที่ 15</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์ – ปุ่มแก้ไข</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic15.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 15</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์ – ปุ่มแก้ไข</p></figcaption></figure>
 
 ผู้ใช้งานสามารถคลิกปุ่ม “แนบไฟล์” เพื่อแนบไฟล์ผังโครงการ
 
@@ -117,9 +125,9 @@ description: >-
 
 ผู้ใช้งานสามารถคลิกไอคอนแว่นขยายเพื่อดูรายละเอียดข้อมูลเลขหน้าสำรวจเลขที่โครงการได้
 
-<figure><img src=".gitbook/assets/pic21.PNG" alt="" width="360"><figcaption><p><strong>รูปภาพที่ 21</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์ - รายละเอียดข้อมูลเลขหน้าสำรวจเลขที่โครงการ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic21.PNG" alt="" width="540"><figcaption><p><strong>รูปภาพที่ 21</strong> หน้าจอดูรายละเอียดที่ดิน ยังไม่จัดประโยชน์ - รายละเอียดข้อมูลเลขหน้าสำรวจเลขที่โครงการ</p></figcaption></figure>
 
-### 2.2 ค้นหาข้อมูลค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว&#x20;
+### 2.2 ค้นหาข้อมูลค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว
 
 คลิกปุ่ม “เข้าไปค้นหา” เพื่อเข้าไปค้นหาข้อมูลค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว
 
@@ -141,43 +149,43 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/pic26.PNG" alt="" width="157"><figcaption><p><strong>รูปภาพที่ 26</strong> หน้าจอค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic26.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 26</strong> หน้าจอค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือก
 
-<figure><img src=".gitbook/assets/pic27.PNG" alt="" width="151"><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic27.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/pic28.PNG" alt="" width="138"><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มย้อนกลับ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic28.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มย้อนกลับ</p></figcaption></figure>
 
 คลิกปุ่ม “เปลี่ยนตัวกรอง” เพื่อเปลี่ยนข้อมูลการค้นหาโครงการ
 
-<figure><img src=".gitbook/assets/pic29.PNG" alt="" width="175"><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มเปลี่ยนตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic29.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอค้นหาที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มเปลี่ยนตัวกรอง</p></figcaption></figure>
 
 #### **2.2.3 ดูรายละเอียดโครงการ**
 
 คลิกปุ่ม “ดูรายละเอียด” เพื่อดูข้อมูลรายละเอียดของโครงการ
 
-<figure><img src=".gitbook/assets/pic30.PNG" alt="" width="173"><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic30.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว</p></figcaption></figure>
 
 #### **2.2.4 หน้าจอรายละเอียดโครงการ**
 
 ผู้ใช้งานสามารถคลิกปุ่ม “ตัวกรอง” เพื่อค้นหารายละเอียดสัญญาได้
 
-<figure><img src=".gitbook/assets/pic31.PNG" alt="" width="352"><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic31.PNG" alt="" width="527"><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มตัวกรอง</p></figcaption></figure>
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/pic32.PNG" alt="" width="148"><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic32.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือก
 
-<figure><img src=".gitbook/assets/pic33.PNG" alt="" width="148"><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic33.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/pic34.PNG" alt="" width="149"><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มย้อนกลับ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic34.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอดูรายละเอียดที่ดินที่มีสัญญาจัดประโยชน์แล้ว – ปุ่มย้อนกลับ</p></figcaption></figure>
 
 ## บทที่ 3 บริหารจัดการ QR Code
 
@@ -201,15 +209,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/pic39.PNG" alt="" width="147"><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอบริหารจัดการคิวอาร์โค้ด – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic39.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอบริหารจัดการคิวอาร์โค้ด – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือก
 
-<figure><img src=".gitbook/assets/pic40.PNG" alt="" width="146"><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอบริหารจัดการคิวอาร์โค้ด – ปุ่มล้าง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic40.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอบริหารจัดการคิวอาร์โค้ด – ปุ่มล้าง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/pic41.PNG" alt="" width="147"><figcaption><p><strong>รูปภาพที่ 41</strong> หน้าจอบริหารจัดการคิวอาร์โค้ด – ปุ่มย้อนกลับ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic41.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 41</strong> หน้าจอบริหารจัดการคิวอาร์โค้ด – ปุ่มย้อนกลับ</p></figcaption></figure>
 
 #### **3.1.2 เพิ่มคิวอาร์โค้ด**
 
@@ -277,15 +285,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/pic55.PNG" alt="" width="156"><figcaption><p><strong>รูปภาพที่ 55</strong> หน้าจอบริหารสัญญาจัดประโยชน์ – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic55.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 55</strong> หน้าจอบริหารสัญญาจัดประโยชน์ – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือก
 
-<figure><img src=".gitbook/assets/pic56.PNG" alt="" width="157"><figcaption><p><strong>รูปภาพที่ 56</strong> หน้าจอบริหารสัญญาจัดประโยชน์ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic56.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 56</strong> หน้าจอบริหารสัญญาจัดประโยชน์ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/pic57.PNG" alt="" width="157"><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอบริหารสัญญาจัดประโยชน์ – ปุ่มย้อนกลับ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pic57.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอบริหารสัญญาจัดประโยชน์ – ปุ่มย้อนกลับ</p></figcaption></figure>
 
 ## บทที่ 5 รายงาน
 

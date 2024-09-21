@@ -19,7 +19,7 @@ description: >-
 
 </div>
 
-1. &#x20;เมนู หน้าแรก
+1. เมนู หน้าแรก
 2. เมนู Market Place
 3. เมนู จองบ้าน
 4. เมนู เข้าสู่ระบบ
@@ -52,7 +52,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/5 (18).png" alt="" width="563"><figcaption><p>รูปภาพที่ 6 หน้าจอส่วนประกอบ Landing Page หมายเลข 19</p></figcaption></figure>
 
-19. &#x20;โครงการแนะนำ สนใจจองสิทธิ์โครงการ
+19. โครงการแนะนำ สนใจจองสิทธิ์โครงการ
 
 ## **บทที่ 2 การเข้าใช้งานระบบ**
 
@@ -76,7 +76,11 @@ description: >-
 
 คลิกปุ่ม “สมัคร” ระบบจะแสดงหน้าต่าง Pop up เพื่อยืนยันการแสดงข้อมูลแก่การเคหะแห่งขาติ (PDPA) ให้คลิกเปลี่ยนจาก Off ให้เป็น On ทุกหัวข้อ จากนั้นคลิก “สมัคร”
 
-<figure><img src="../.gitbook/assets/9 (18).png" alt="" width="250"><figcaption><p>รูปภาพที่ 10 หน้าจอเข้าสู่ระบบบริการลูกค้าออนไลน์ (Customer Service) – การขอความยินยอมจากเจ้าของข้อมูลส่วนบุคคล</p></figcaption></figure>
+<div align="center">
+
+<figure><img src="../.gitbook/assets/9 (18).png" alt=""><figcaption><p>รูปภาพที่ 10 หน้าจอเข้าสู่ระบบบริการลูกค้าออนไลน์ (Customer Service) – การขอความยินยอมจากเจ้าของข้อมูลส่วนบุคคล</p></figcaption></figure>
+
+</div>
 
 รหัสยืนยันตัวตน จากนั้นตรวจสอบรหัส 6 หลักจากอีเมลหรือหมายเลขโทรศัพท์มือถือ และกรอกรหัสยืนยันตัวตน (OTP)
 
@@ -120,7 +124,6 @@ description: >-
 ### 2.3 การออกจากระบบ
 
 การออกจากระบบ สามารถทำได้โดย คลิกที่ “ไอคอนรูปโปรไฟล์” มุมบนขวาข้างชื่อผู้ใช้ จากนั้นคลิกปุ่ม “ออกจากระบบ” ระบบจะทำการออกจากระบบ และแสดงหน้าจอเข้าสู่ระบบต่อไป
-
 
 <figure><img src="../.gitbook/assets/18 (18).png" alt="" width="563"><figcaption><p>รูปภาพที่ 19 หน้าจอเข้าสู่ระบบบริการลูกค้าออนไลน์ (Customer Service) – ออกจากระบบ</p></figcaption></figure>
 
@@ -314,9 +317,9 @@ description: >-
 
 กรอกรหัสยืนยันตัวตน (OTP)
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-123.png" alt="" width="314"><figcaption><p><strong>รูปภาพที่ 53</strong> หน้าจอรายละเอียดการจองบ้าน – หน้าต่างป๊อบอัพ (Pop-up)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-123.png" alt=""><figcaption><p><strong>รูปภาพที่ 53</strong> หน้าจอรายละเอียดการจองบ้าน – หน้าต่างป๊อบอัพ (Pop-up)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-124.jpg" alt="" width="350"><figcaption><p><strong>รูปภาพที่ 54</strong> ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) จองสำเร็จ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-124.jpg" alt=""><figcaption><p><strong>รูปภาพที่ 54</strong> ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) จองสำเร็จ</p></figcaption></figure>
 
 ระบบนำไปยังหน้าตรวจสอบการทำสัญญาเช่าที่อยู่อาศัย
 
@@ -348,7 +351,7 @@ description: >-
 
 ระบบแสดงหน้าต่างป๊อบอัพ (Pop-up) ช่องทางการชำระเงิน เลือกข่องทางที่ต้องการ จากนั้นคลิก “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-135.png" alt="" width="307"><figcaption><p><strong>รูปภาพที่ 59</strong> หน้าจอการชำระเงิน – หน้าต่างป๊อบอัพ (Pop-up) ช่องทางการชำระเงิน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-135.png" alt=""><figcaption><p><strong>รูปภาพที่ 59</strong> หน้าจอการชำระเงิน – หน้าต่างป๊อบอัพ (Pop-up) ช่องทางการชำระเงิน</p></figcaption></figure>
 
 * ชำระผ่านบัตรเดบิต เลือกประเภทบัตร และกรอกข้อมูลบัตร จากนั้นคลิกปุ่ม “Submit”
 
@@ -403,7 +406,7 @@ description: >-
 
 ระบบจะแสดงหน้ารายละเอียดโครงการ โดยมีส่วนประกอบดังนี้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-159.jpg" alt="" width="399"><figcaption><p><strong>รูปภาพที่ 69</strong> หน้าจอการจองสิทธิ์โครงการ – รายละเอียดโครงการ หมายเลข 1-5</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-159.jpg" alt=""><figcaption><p><strong>รูปภาพที่ 69</strong> หน้าจอการจองสิทธิ์โครงการ – รายละเอียดโครงการ หมายเลข 1-5</p></figcaption></figure>
 
 1. ชื่อโครงการ
 2. ราคาเริ่มต้น
@@ -425,9 +428,9 @@ description: >-
 
 <figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-167.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 73</strong> หน้าจอการจองสิทธิ์โครงการ – กรอกรายละเอียดการจองสิทธิ์โครงการ</p></figcaption></figure>
 
-ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ทำสัญญาลงทะเบียนโครงการสำเร็จ จากนั้นคลิกปุ่ม “ตกลง” ระบบจะทำการปิดหน้าต่างป๊อบอัพ (Pop-up)&#x20;
+ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ทำสัญญาลงทะเบียนโครงการสำเร็จ จากนั้นคลิกปุ่ม “ตกลง” ระบบจะทำการปิดหน้าต่างป๊อบอัพ (Pop-up)
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-171.png" alt="" width="261"><figcaption><p><strong>รูปภาพที่ 74</strong> หน้าจอการจองสิทธิ์โครงการ – หน้าต่างป๊อบอัพ (Pop-up) ลงทะเบียนความสนใจโครงการสำเร็จ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-171.png" alt=""><figcaption><p><strong>รูปภาพที่ 74</strong> หน้าจอการจองสิทธิ์โครงการ – หน้าต่างป๊อบอัพ (Pop-up) ลงทะเบียนความสนใจโครงการสำเร็จ</p></figcaption></figure>
 
 ### 6.4 ติดตามสถานะการจองสิทธิ์โครงการ
 
@@ -459,13 +462,13 @@ description: >-
 
 ระบบแสดงหน้าต่างป๊อบอัพ (Pop-up) บันทึกร่างสำเร็จ คลิกปุ่ม “ตกลง” ระบบจะทำการบันทึกร่าง และแสดงหน้าจอ Landing Page ต่อไป
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-186.png" alt="" width="375"><figcaption><p><strong>รูปภาพที่ 80</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) บันทึกร่างสำเร็จ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-186.png" alt=""><figcaption><p><strong>รูปภาพที่ 80</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) บันทึกร่างสำเร็จ</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-187.jpg" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 81</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – การส่งข้อความเพื่อติดต่อการเคหะ</p></figcaption></figure>
 
 ระบบแสดงหน้าต่างป๊อบอัพ (Pop-up) ส่งข้อความติดต่อการเคหะแห่งชาติสำเร็จ คลิกปุ่ม “ตกลง” ระบบจะทำการส่งข้อความไปยังการเคหะแห่งชาติ และแสดงหน้าจอ Landing Page ต่อไป
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-190.png" alt="" width="374"><figcaption><p><strong>รูปภาพที่ 82</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) ส่งข้อความติดต่อการเคหะสำเร็จ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-190.png" alt=""><figcaption><p><strong>รูปภาพที่ 82</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) ส่งข้อความติดต่อการเคหะสำเร็จ</p></figcaption></figure>
 
 คลิกปุ่ม “ติดตามสถานะ”
 
@@ -473,7 +476,7 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ติดตามสถานะการติดต่อการเคหะ ผู้ใช้งานสามารถติดตามสถานะการติดต่อการเคหะได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-194.png" alt="" width="371"><figcaption><p><strong>รูปภาพที่ 84</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) การติดตามสถานะการติดต่อการเคหะ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-194.png" alt=""><figcaption><p><strong>รูปภาพที่ 84</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) การติดตามสถานะการติดต่อการเคหะ</p></figcaption></figure>
 
 ### 7.2 การร้องเรียนเรื่องทุจริต
 
@@ -491,7 +494,7 @@ description: >-
 
 ระบบแสดงหน้าต่างป๊อบอัพ (Pop-up) บันทึกร่างสำเร็จ คลิกปุ่ม “ตกลง” ระบบจะทำการบันทึกร่าง และแสดงหน้าจอ Landing Page ต่อไป
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-202.png" alt="" width="375"><figcaption><p><strong>รูปภาพที่ 88</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) การบันทึกร่างสำเร็จ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-202.png" alt=""><figcaption><p><strong>รูปภาพที่ 88</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) การบันทึกร่างสำเร็จ</p></figcaption></figure>
 
 คลิกปุ่ม “ส่ง”
 
@@ -499,7 +502,7 @@ description: >-
 
 ระบบแสดงหน้าต่างป๊อบอัพ (Pop-up) ส่งข้อความร้องเรียนเรื่องทุจริตสำเร็จ คลิกปุ่ม “ตกลง” ระบบจะทำการส่งข้อความไปยังการเคหะแห่งชาติ และแสดงหน้าจอ Landing Page ต่อไป
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-204.jpg" alt="" width="434"><figcaption><p><strong>รูปภาพที่ 90</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) ส่งข้อความร้องเรียนเรื่องทุจริตสำเร็จ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-204.jpg" alt=""><figcaption><p><strong>รูปภาพที่ 90</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – หน้าต่างป๊อบอัพ (Pop-up) ส่งข้อความร้องเรียนเรื่องทุจริตสำเร็จ</p></figcaption></figure>
 
 คลิกปุ่ม “ติดตามสถานะ”
 
@@ -507,7 +510,7 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ติดตามสถานะการติดต่อการเคหะ ผู้ใช้งานสามารถติดตามสถานะเรื่องร้องเรียนได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-210.png" alt="" width="372"><figcaption><p><strong>รูปภาพที่ 92</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – การติดตามสถานะการติดต่อการเคหะ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-210.png" alt=""><figcaption><p><strong>รูปภาพที่ 92</strong> หน้าจอการติดต่อการเคหะแห่งชาติ – การติดตามสถานะการติดต่อการเคหะ</p></figcaption></figure>
 
 ## **บทที่ 8 การใช้งานในส่วนของ Marketplace ฝั่งผู้ซื้อ**
 
@@ -525,19 +528,19 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-217.png" alt="" width="171"><figcaption><p><strong>รูปภาพที่ 95</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-217.png" alt=""><figcaption><p><strong>รูปภาพที่ 95</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง</p></figcaption></figure>
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-218.png" alt="" width="167"><figcaption><p><strong>รูปภาพที่ 96</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – บันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-218.png" alt=""><figcaption><p><strong>รูปภาพที่ 96</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – บันทึกตัวกรอง</p></figcaption></figure>
 
 ผู้ใช้งานสามารถ คลิก “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-221.png" alt="" width="138"><figcaption><p><strong>รูปภาพที่ 97</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-221.png" alt=""><figcaption><p><strong>รูปภาพที่ 97</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-222.png" alt="" width="143"><figcaption><p><strong>รูปภาพที่ 98</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-222.png" alt=""><figcaption><p><strong>รูปภาพที่ 98</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 ### 8.3 สั่งซื้อสินค้าและบริการ
 
@@ -561,7 +564,7 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ที่อยู่สำหรับการจัดส่ง ผู้ใช้งานสามารถเลือกที่อยู่ที่ต้องการจัดส่งได้ จากนั้นคลิกปุ่ม “ตกลง”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-233.png" alt="" width="249"><figcaption><p><strong>รูปภาพที่ 103</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ที่อยู่สำหรับการจัดส่ง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-233.png" alt=""><figcaption><p><strong>รูปภาพที่ 103</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ที่อยู่สำหรับการจัดส่ง</p></figcaption></figure>
 
 ผู้ใช้งานสามารถส่งข้อความถึงผู้ขายได้ที่ฟิลด์ “ฝากข้อความถึงผู้ขาย”
 
@@ -585,11 +588,11 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ยืนยันการสั่งซื้อสินค้า คลิกปุ่ม “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-245.jpg" alt="" width="330"><figcaption><p><strong>รูปภาพที่ 109</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ยืนยันการสั่งซื้อสินค้า</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-245.jpg" alt=""><figcaption><p><strong>รูปภาพที่ 109</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ยืนยันการสั่งซื้อสินค้า</p></figcaption></figure>
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) สั่งซื้อสินค้าเสร็จสมบูรณ์ คลิกปุ่ม “ตกลง” ระบบจะนำไปยังหน้ารายละเอียดคำสั่งซื้อสินค้าและบริการ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-246.jpg" alt="" width="247"><figcaption><p><strong>รูปภาพที่ 110</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) สั่งซื้อสินค้าเสร็จสมบูรณ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-246.jpg" alt=""><figcaption><p><strong>รูปภาพที่ 110</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) สั่งซื้อสินค้าเสร็จสมบูรณ์</p></figcaption></figure>
 
 หน้ารายละเอียดคำสั่งซื้อสินค้าและบริการ ผู้ใช้งานสามารถติดตามคำสั่งซื้อ ให้คะแนน/รีวิวสินค้า ชำระเงิน และยกเลิกคำสั่งซื้อได้ที่หน้านี้
 
@@ -601,7 +604,7 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ให้คะแนนและรีวิวสินค้าที่สั่งซื้อ ผู้ใช้งานสามารถให้คะแนน และระบุรายละเอียดรีวิวได้ จากนั้นคลิกปุ่ม “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-253.png" alt="" width="311"><figcaption><p><strong>รูปภาพที่ 113</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ให้คะแนนและรีวิวสินค้าที่สั่งซื้อ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-253.png" alt=""><figcaption><p><strong>รูปภาพที่ 113</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ให้คะแนนและรีวิวสินค้าที่สั่งซื้อ</p></figcaption></figure>
 
 ผู้ใช้งานสามารถดูผลการรีวิวได้ที่ Review
 
@@ -617,7 +620,7 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ยกเลิกคำสั่งซื้อ ผู้ใช้งานสามารถระบุเหตุผลการยกเลิก จากนั้นคลิกปุ่ม “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-261.png" alt="" width="311"><figcaption><p><strong>รูปภาพที่ 117</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ยกเลิกคำสั่งซื้อ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-261.png" alt=""><figcaption><p><strong>รูปภาพที่ 117</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ยกเลิกคำสั่งซื้อ</p></figcaption></figure>
 
 #### **8.3.2 แท็บ Market Place**
 
@@ -655,19 +658,19 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-276.png" alt="" width="166"><figcaption><p><strong>รูปภาพที่ 124</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-276.png" alt=""><figcaption><p><strong>รูปภาพที่ 124</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง</p></figcaption></figure>
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-277.png" alt="" width="144"><figcaption><p><strong>รูปภาพที่ 125</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – บันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-277.png" alt=""><figcaption><p><strong>รูปภาพที่ 125</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – บันทึกตัวกรอง</p></figcaption></figure>
 
 ผู้ใช้งานสามารถ คลิก “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-280.png" alt="" width="144"><figcaption><p><strong>รูปภาพที่ 126</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-280.png" alt=""><figcaption><p><strong>รูปภาพที่ 126</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-281.png" alt="" width="143"><figcaption><p><strong>รูปภาพที่ 127</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-281.png" alt=""><figcaption><p><strong>รูปภาพที่ 127</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### 8.4.4 รายละเอียดคำสั่งซื้อสินค้า/บริการ
 
@@ -693,11 +696,11 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ท่านต้องการลงทะเบียนร้านค้าหรือไม่ จากนั้นคลิกปุ่ม “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-292.png" alt="" width="311"><figcaption><p><strong>รูปภาพที่ 132</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ท่านต้องการลงทะเบียนร้านค้าหรือไม่</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-292.png" alt=""><figcaption><p><strong>รูปภาพที่ 132</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) ท่านต้องการลงทะเบียนร้านค้าหรือไม่</p></figcaption></figure>
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) การลงทะเบียนร้านค้าสำเร็จ จากนั้นคลิกปุ่ม “ตกลง” ระบบจะทำการส่งคำขออนุมัติการลงทะเบียนร้านค้า
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-293.png" alt="" width="309"><figcaption><p><strong>รูปภาพที่ 133</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) การลงทะเบียนร้านค้าสำเร็จ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-293.png" alt=""><figcaption><p><strong>รูปภาพที่ 133</strong> หน้าจอการใช้งาน Marketplace ผู้ซื้อ – หน้าต่างป๊อบอัพ (Pop-up) การลงทะเบียนร้านค้าสำเร็จ</p></figcaption></figure>
 
 เมื่อผลการอนุมัติการลงทะเบียนสำเร็จ ระบบจะแสดงปุ่ม “การจัดการ” ที่มุมขวาบนของหน้า Market Place ผู้ใช้งานจะสามารถจัดการร้านค้าและจัดการคำสั่งซื้อได้
 
@@ -727,7 +730,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-303.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 137</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ช่องค้นหา</p></figcaption></figure>
 
-#### 9.1.2 การกรอง&#x20;
+#### 9.1.2 การกรอง
 
 คลิกปุ่ม “ตัวกรอง” ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง
 
@@ -737,15 +740,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-308.png" alt="" width="139"><figcaption><p><strong>รูปภาพที่ 140</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-308.png" alt=""><figcaption><p><strong>รูปภาพที่ 140</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-309.png" alt="" width="136"><figcaption><p><strong>รูปภาพที่ 141</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-309.png" alt=""><figcaption><p><strong>รูปภาพที่ 141</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-312.png" alt="" width="142"><figcaption><p><strong>รูปภาพที่ 142</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-312.png" alt=""><figcaption><p><strong>รูปภาพที่ 142</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### 9.1.3 การเพิ่มสินค้า
 
@@ -800,19 +803,19 @@ description: >-
 
 <figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-329.png" alt="" width="545"><figcaption><p><strong>รูปภาพที่ 151</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มตัวกรอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-330.png" alt="" width="253"><figcaption><p><strong>รูปภาพที่ 152</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – หน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-330.png" alt=""><figcaption><p><strong>รูปภาพที่ 152</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – หน้าต่างป๊อบอัพ (Pop-up) ตัวกรอง</p></figcaption></figure>
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-333.png" alt="" width="167"><figcaption><p><strong>รูปภาพที่ 153</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-333.png" alt=""><figcaption><p><strong>รูปภาพที่ 153</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-334.png" alt="" width="170"><figcaption><p><strong>รูปภาพที่ 154</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-334.png" alt=""><figcaption><p><strong>รูปภาพที่ 154</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-337.png" alt="" width="166"><figcaption><p><strong>รูปภาพที่ 155</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-337.png" alt=""><figcaption><p><strong>รูปภาพที่ 155</strong> หน้าจอการใช้งาน Marketplace ผู้ขาย – ปุ่มย้อนกลับเพื่อปิดตัวกรอง</p></figcaption></figure>
 
 #### 9.2.3 รายละเอียดคำสั่งซื้อ
 
@@ -983,8 +986,8 @@ description: >-
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) ยืนยันการขอรับเอกสารอิเล็กทรอนิกส์ จากนั้นคลิกปุ่ม “ยืนยัน”
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-393.png" alt="" width="410"><figcaption><p><strong>รูปภาพที่ 179</strong> หน้าจอการขอรับเอกสาร อิเล็กทรอนิกส์ – หน้าต่างป๊อบอัพ (Pop-up) ยืนยันการขอรับบริการอิเล็กทรอนิกส์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-393.png" alt=""><figcaption><p><strong>รูปภาพที่ 179</strong> หน้าจอการขอรับเอกสาร อิเล็กทรอนิกส์ – หน้าต่างป๊อบอัพ (Pop-up) ยืนยันการขอรับบริการอิเล็กทรอนิกส์</p></figcaption></figure>
 
 ระบบจะแสดงหน้าต่างป๊อบอัพ (Pop-up) แสดงข้อความ “การขอเอกสารเสร็จสมบูรณ์ ได้ส่งเอกสารทางอีเมลของคุณเรียบร้อยแล้ว” จากนั้นคลิกปุ่ม “ตกลง” ระบบจะทำการปิดหน้าต่างป๊อบอัพ (Pop-up) และแสดงหน้าจอ Landing Page ต่อไป
 
-<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-396.png" alt="" width="419"><figcaption><p><strong>รูปภาพที่ 180</strong> หน้าจอการขอรับเอกสาร อิเล็กทรอนิกส์ – หน้าต่างป๊อบอัพ (Pop-up) การขอเอกสารเสร็จสมบูรณ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_คู่มือการใช้งานระบบลูกค้าออนไลน์(ผู้ใช้งาน)_V2.0.0.pdf-image-396.png" alt=""><figcaption><p><strong>รูปภาพที่ 180</strong> หน้าจอการขอรับเอกสาร อิเล็กทรอนิกส์ – หน้าต่างป๊อบอัพ (Pop-up) การขอเอกสารเสร็จสมบูรณ์</p></figcaption></figure>

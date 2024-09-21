@@ -13,7 +13,7 @@ description: >-
 
 <figure><img src=".gitbook/assets/image01.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 1</strong> หน้าจอแอปพลิเคของฉัน – Asset Management</p></figcaption></figure>
 
-### 1.1 ระบบแสดงหน้า Asset Management&#x20;
+### 1.1 ระบบแสดงหน้า Asset Management
 
 ผู้ใช้งานสามารถจัดการข้อมูลต่าง ๆ ได้ โดยมีเมนู ดังนี้
 
@@ -55,33 +55,33 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/image08.PNG" alt="" width="166"><figcaption><p><strong>รูปภาพที่ 8</strong> หน้าจอค้นหาโครงการ กคช. - ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image08.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 8</strong> หน้าจอค้นหาโครงการ กคช. - ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือก
 
-<figure><img src=".gitbook/assets/image09.PNG" alt="" width="167"><figcaption><p><strong>รูปภาพที่ 9</strong> หน้าจอค้นหาโครงการ กคช. – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image09.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 9</strong> หน้าจอค้นหาโครงการ กคช. – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/image10.PNG" alt="" width="167"><figcaption><p><strong>รูปภาพที่ 10</strong> หน้าจอค้นหาโครงการ กคช. – ปุ่มย้อนกลับ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image10.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 10</strong> หน้าจอค้นหาโครงการ กคช. – ปุ่มย้อนกลับ</p></figcaption></figure>
 
 คลิกปุ่ม “เปลี่ยนตัวกรอง” เพื่อเปลี่ยนข้อมูลการค้นหาโครงการ
 
-<figure><img src=".gitbook/assets/image11.PNG" alt="" width="169"><figcaption><p><strong>รูปภาพที่ 11</strong> หน้าจอค้นหาโครงการ กคช. – ปุ่มเปลี่ยนตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image11.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 11</strong> หน้าจอค้นหาโครงการ กคช. – ปุ่มเปลี่ยนตัวกรอง</p></figcaption></figure>
 
 #### 2.1.3 ดูรายละเอียดโครงการ
 
 คลิกปุ่ม “ดูรายละเอียด” เพื่อดูข้อมูลรายละเอียดของโครงการ
 
-<figure><img src=".gitbook/assets/image12.PNG" alt="" width="169"><figcaption><p><strong>รูปภาพที่ 12</strong> หน้าจอดูรายละเอียดโครงการ กคช.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image12.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 12</strong> หน้าจอดูรายละเอียดโครงการ กคช.</p></figcaption></figure>
 
 ระบบแสดงหน้าจอรายละเอียดโครงการ ผู้ใช้งานสามารถคลิกปุ่ม “แสดงแผนที่” เพื่อดูแผนที่โครงการได้
 
-<figure><img src=".gitbook/assets/image13.PNG" alt="" width="281"><figcaption><p><strong>รูปภาพที่ 13</strong> หน้าจอดูรายละเอียดโครงการ กคช. – ปุ่มแสดงแผนที่</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image13.PNG" alt="" width="421"><figcaption><p><strong>รูปภาพที่ 13</strong> หน้าจอดูรายละเอียดโครงการ กคช. – ปุ่มแสดงแผนที่</p></figcaption></figure>
 
 ระบบแสดงหน้าจอรายละเอียดโครงการ ผู้ใช้งานสามารถคลิกปุ่ม “แก้ไข” เพื่อแก้ไขข้อมูล โครงการ โดยคลิกปุ่ม “แก้ไข”
 
-<figure><img src=".gitbook/assets/image14.PNG" alt="" width="281"><figcaption><p><strong>รูปภาพที่ 14</strong> หน้าจอดูรายละเอียดโครงการ – ปุ่มแก้ไขข้อมูล</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image14.PNG" alt="" width="422"><figcaption><p><strong>รูปภาพที่ 14</strong> หน้าจอดูรายละเอียดโครงการ – ปุ่มแก้ไขข้อมูล</p></figcaption></figure>
 
 #### 2.1.4 แก้ไขข้อมูลโครงการ
 
@@ -107,17 +107,17 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/image20.PNG" alt="" width="153"><figcaption><p><strong>รูปภาพที่ 20</strong> หน้าค้นหารายละเอียดห้อง – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image20.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 20</strong> หน้าค้นหารายละเอียดห้อง – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือกได้
 
-<figure><img src=".gitbook/assets/image21.PNG" alt="" width="143"><figcaption><p><strong>รูปภาพที่ 21</strong> หน้าจอค้นหารายละเอียดห้อง – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image21.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 21</strong> หน้าจอค้นหารายละเอียดห้อง – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/image22.PNG" alt="" width="164"><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอค้นหารายละเอียดห้อง – ปุ่มปิดตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image22.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอค้นหารายละเอียดห้อง – ปุ่มปิดตัวกรอง</p></figcaption></figure>
 
-#### 2.1.6 รายการที่ดิน&#x20;
+#### 2.1.6 รายการที่ดิน
 
 เพิ่มรายการที่ดิน โดยกรอกข้อมูลรายละเอียดรายการที่ดิน และคลิกไอคอน “เครื่องหมายถูก”
 
@@ -157,25 +157,25 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบจะกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/image31.PNG" alt="" width="185"><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอค้นหาโครงการเอกชน – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image31.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอค้นหาโครงการเอกชน – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือก
 
-<figure><img src=".gitbook/assets/image32.PNG" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอค้นหาโครงการเอกชน – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image32.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอค้นหาโครงการเอกชน – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/image33.PNG" alt="" width="187"><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอค้นหาโครงการเอกชน – ปุ่มย้อนกลับ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image33.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอค้นหาโครงการเอกชน – ปุ่มย้อนกลับ</p></figcaption></figure>
 
 คลิกปุ่ม “เปลี่ยนตัวกรอง” เพื่อเปลี่ยนข้อมูลการค้นหาโครงการ
 
-<figure><img src=".gitbook/assets/image34.PNG" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอค้นหาโครงการเอกชน – ปุ่มเปลี่ยนตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image34.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอค้นหาโครงการเอกชน – ปุ่มเปลี่ยนตัวกรอง</p></figcaption></figure>
 
 #### 2.2.3 ดูรายละเอียดโครงการ
 
 คลิกปุ่ม “ดูรายละเอียด” เพื่อดูข้อมูลรายละเอียดของโครงการ
 
-<figure><img src=".gitbook/assets/image35.PNG" alt="" width="186"><figcaption><p><strong>รูปภาพที่ 35</strong> หน้าจอดูรายละเอียดโครงการเอกชน</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image35.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 35</strong> หน้าจอดูรายละเอียดโครงการเอกชน</p></figcaption></figure>
 
 ผู้ใช้งานสามารถคลิกปุ่ม “แสดงแผนที่” เพื่อดูแผนที่โครงการได้
 
@@ -275,15 +275,15 @@ description: >-
 
 เลือกข้อมูลที่ต้องการกรอง จากนั้นคลิกปุ่ม “บันทึกตัวกรอง” ระบบกรองข้อมูลตามเงื่อนไขที่ระบุ
 
-<figure><img src=".gitbook/assets/image57.PNG" alt="" width="170"><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอค้นหาโครงการ – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image57.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอค้นหาโครงการ – ปุ่มบันทึกตัวกรอง</p></figcaption></figure>
 
 คลิกที่ “ล้าง” เพื่อล้างข้อมูลที่เลือก
 
-<figure><img src=".gitbook/assets/image58.PNG" alt="" width="170"><figcaption><p><strong>รูปภาพที่ 58</strong> หน้าจอค้นหาโครงการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image58.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 58</strong> หน้าจอค้นหาโครงการ – ปุ่มล้างตัวกรอง</p></figcaption></figure>
 
 คลิกปุ่ม “<” เพื่อปิดตัวกรอง
 
-<figure><img src=".gitbook/assets/image59.PNG" alt="" width="169"><figcaption><p><strong>รูปภาพที่ 59</strong> หน้าจอค้นหาโครงการ – ปิดตัวกรอง</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image59.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 59</strong> หน้าจอค้นหาโครงการ – ปิดตัวกรอง</p></figcaption></figure>
 
 #### 3.1.3 เพิ่มข้อมูลพิจารณาโครงการ
 
