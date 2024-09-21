@@ -467,7 +467,7 @@
 
 7. กดปุ่ม “+ เพิ่ม Account ทนาย”
 
-<figure><img src="../.gitbook/assets/55-4.1.PNG" alt="" width="226"><figcaption><p><strong>รูปภาพที่ 55</strong> หน้าจอ Pop-up สร้าง Account ทนาย</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/55-4.1.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 55</strong> หน้าจอ Pop-up สร้าง Account ทนาย</p></figcaption></figure>
 
 7.1 กรอกข้อมูล “ชื่อ”
 

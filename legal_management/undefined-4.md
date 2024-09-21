@@ -18,51 +18,51 @@
 
 ส่วนที่ 2 – เมนูลัด เป็นเมนูทางด้านซ้าย ประกอบไปด้วย
 
-<figure><img src="../.gitbook/assets/2 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (22).png" alt="" width="50"><figcaption></figcaption></figure>
 
 \- เมนู Action Center / Notification : ข้อความแจ้งเตือน
 
-<figure><img src="../.gitbook/assets/3 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (22).png" alt="" width="563"><figcaption></figcaption></figure>
 
 _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู Action Center / Notification : ข้อความแจ้งเตือน
 
-<figure><img src="../.gitbook/assets/4 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (22).png" alt="" width="53"><figcaption></figcaption></figure>
 
 \- เมนู Home : หน้าแรก
 
 <figure><img src="../.gitbook/assets/5 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 4 หน้าจอแสดงผลเมนู Home : หน้าแรก</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/6 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (22).png" alt="" width="52"><figcaption></figcaption></figure>
 
 \- เมนู Social Feed : ระบบฟีดสังคมออนไลน์
 
 <figure><img src="../.gitbook/assets/7 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 5 หน้าจอแสดงผลเมนู Social Feed : ระบบฟีดสังคมออนไลน์</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/8 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (22).png" alt="" width="50"><figcaption></figcaption></figure>
 
 \- เมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน
 
 <figure><img src="../.gitbook/assets/9 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 6 หน้าจอแสดงผลเมนู Case Management / Task Management : ระบบมอบหมาย/ติดตามงาน</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/10 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (22).png" alt="" width="50"><figcaption></figcaption></figure>
 
 \- เมนู Social Post : ระบบโพสต์สังคมออนไลน์
 
 <figure><img src="../.gitbook/assets/11 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 7 หน้าจอแสดงผลเมนู Social Post : ระบบโพสต์สังคมออนไลน์</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/12 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12 (22).png" alt="" width="50"><figcaption></figcaption></figure>
 
 \- เมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ
 
 <figure><img src="../.gitbook/assets/13 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 8 หน้าจอแสดงผลเมนู All Apps : หน้าจอรวมระบบงานต่างๆ // สำหรับเข้าใช้งานระบบภายในต่างๆ</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/14 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (22).png" alt="" width="53"><figcaption></figcaption></figure>
 
 \- เมนู Social Group : ระบบกลุ่มสังคมออนไลน์
 
 <figure><img src="../.gitbook/assets/15 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 9 หน้าจอแสดงผลเมนู Social Group : ระบบกลุ่มสังคมออนไลน์</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/16 (22).png" alt="" width="563"><figcaption><p><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (22).png" alt="" width="51"><figcaption></figcaption></figure>
 
 \- เมนู Setting : การตั้งค่าข้อมูลผู้ใช้งานและอื่นๆ
 
@@ -84,11 +84,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/20 (22).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 13 หน้าจอขั้นตอนการดำเนินงาน</strong></p></figcaption></figure>
 
-1. กดที่ปุ่ม &#x20;
+1. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (1).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่กล่องเปิดเรื่องงานคดีพิเศษ
+ที่กล่องเปิดเรื่องงานคดีพิเศษ
 
 <figure><img src="../.gitbook/assets/14-1.2.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 14</strong> หน้าจอสร้างงานคดีพิเศษและขออนุมัติ</p></figcaption></figure>
 
@@ -96,65 +96,65 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 2. กดที่ปุ่ม ชื่อรายการเอกสารประกอบการฟ้องคดี เพิ่มไฟล์เอกสาร PDF และกดที่ เครื่องหมายถูก
 3. กดที่ปุ่ม “+ เพิ่มกรณีอื่นๆ”
 
-<figure><img src="../.gitbook/assets/15-1.2.PNG" alt="" width="262"><figcaption><p><strong>รูปภาพที่ 15</strong> หน้าจอ Pop-up เพิ่มกรณีอื่นๆ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15-1.2.PNG" alt="" width="393"><figcaption><p><strong>รูปภาพที่ 15</strong> หน้าจอ Pop-up เพิ่มกรณีอื่นๆ</p></figcaption></figure>
 
-&#x20;       3.1 กรอกข้อมูล “เลขที่สัญญา”
+3.1 กรอกข้อมูล “เลขที่สัญญา”
 
-&#x20;       3.2 กรอกข้อมูล “รหัสโครงการ - โครงการ”
+3.2 กรอกข้อมูล “รหัสโครงการ - โครงการ”
 
-&#x20;       3.3 กรอกข้อมูล “บ้านเลขที่ / ตำแหน่งที่ตั้ง”
+3.3 กรอกข้อมูล “บ้านเลขที่ / ตำแหน่งที่ตั้ง”
 
-&#x20;       3.4 กรอกข้อมูล “รหัสเจ้าหนี้”
+3.4 กรอกข้อมูล “รหัสเจ้าหนี้”
 
-&#x20;       3.5 กรอกข้อมูล “ค่าเสียหาย”
+3.5 กรอกข้อมูล “ค่าเสียหาย”
 
-&#x20;       3.6 กรอกข้อมูล “รายละเอียดค่าเสียหาย”
+3.6 กรอกข้อมูล “รายละเอียดค่าเสียหาย”
 
-&#x20;       3.7 กรอกข้อมูล  “ชื่อสัญญา”
+3.7 กรอกข้อมูล “ชื่อสัญญา”
 
-&#x20;       3.8 ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
+3.8 ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
 
-&#x20;       3.9 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
+3.9 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 
 4. กดที่ปุ่ม “+ เลือกสัญญาที่ลูกค้าทำกับการเคหะ”
 
 <figure><img src="../.gitbook/assets/16-1.2.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 16</strong> หน้าจอ Pop-up เลือกสัญญาที่ลูกค้าทำกับการเคหะ</p></figcaption></figure>
 
-&#x20;       4.1 กรอกข้อมูล “รหัสโครงการ/โครงการ”
+4.1 กรอกข้อมูล “รหัสโครงการ/โครงการ”
 
-&#x20;       4.2 กรอกข้อมูล “ชื่อลูกค้า”
+4.2 กรอกข้อมูล “ชื่อลูกค้า”
 
-&#x20;       4.3 กรอกข้อมูล “บ้านเลขที่ผัง”
+4.3 กรอกข้อมูล “บ้านเลขที่ผัง”
 
-&#x20;       4.4 กรอกข้อมูล “บ้านเลขที่จริง”
+4.4 กรอกข้อมูล “บ้านเลขที่จริง”
 
-&#x20;       4.5 กรอกข้อมูล “รหัสลูกค้า”
+4.5 กรอกข้อมูล “รหัสลูกค้า”
 
-&#x20;       4.6 กรอกข้อมูล “เลขบัตรประจำตัวประชาชน”
+4.6 กรอกข้อมูล “เลขบัตรประจำตัวประชาชน”
 
-&#x20;       4.7 กรอกข้อมูล “เลขประจำตัวผู้เสียภาษี”
+4.7 กรอกข้อมูล “เลขประจำตัวผู้เสียภาษี”
 
-&#x20;       4.8 กรอกข้อมูลเรียบร้อย กดปุ่ม “ค้นหาสัญญา”
+4.8 กรอกข้อมูลเรียบร้อย กดปุ่ม “ค้นหาสัญญา”
 
-&#x20;       4.9 ยกเลิกข้อมูล กดปุ่ม “ล้างค่า”
+4.9 ยกเลิกข้อมูล กดปุ่ม “ล้างค่า”
 
-&#x20;       4.10 ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
+4.10 ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
 
-&#x20;       4.11 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
+4.11 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 
 5. กดที่ปุ่ม “+ เพิ่มชื่อ - นามสกุล ผู้ที่เกี่ยวข้องในคดี”
 
-<figure><img src="../.gitbook/assets/17-1.2.PNG" alt="" width="316"><figcaption><p><strong>รูปภาพที่ 17</strong> หน้าจอ Pop-up เพิ่มชื่อ - นามสกุล ผู้ที่เกี่ยวข้องในคดี</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/17-1.2.PNG" alt="" width="474"><figcaption><p><strong>รูปภาพที่ 17</strong> หน้าจอ Pop-up เพิ่มชื่อ - นามสกุล ผู้ที่เกี่ยวข้องในคดี</p></figcaption></figure>
 
-&#x20;       5.1 กรอกข้อมูล “คำนำหน้า”
+5.1 กรอกข้อมูล “คำนำหน้า”
 
-&#x20;       5.2 กรอกข้อมูล “ชื่อผู้เกี่ยวข้อง / ชื่อบริษัท”
+5.2 กรอกข้อมูล “ชื่อผู้เกี่ยวข้อง / ชื่อบริษัท”
 
-&#x20;       5.3 กรอกข้อมูล “นามสกุล”
+5.3 กรอกข้อมูล “นามสกุล”
 
-&#x20;       5.4 ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
+5.4 ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
 
-&#x20;       5.5 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
+5.5 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 
 7. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 8. ข้อมูลเรียบร้อย กดปุ่ม “ส่งงาน”
@@ -181,11 +181,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/21-1.3.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 21</strong> หน่วยงานต้นเรื่อง : กอง ดำเนินการพิจารณาคดี</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (1).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง : กอง พิจารณา
+ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง : กอง พิจารณา
 
 <figure><img src="../.gitbook/assets/22-1.3.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอพิจารณาคดีพิเศษ หน่วยงานต้นเรื่อง : กอง</p></figcaption></figure>
 
@@ -214,11 +214,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/26-1.4.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 26</strong> หน่วยงานต้นเรื่อง : สคล/สคจ ดำเนินการพิจารณาคดีพิเศษ</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (1).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง : สคล/สคจ
+ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง : สคล/สคจ
 
 <figure><img src="../.gitbook/assets/27-1.4.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอพิจารณาคดีพิเศษ หน่วยงานต้นเรื่อง : สคล/สคจ</p></figcaption></figure>
 
@@ -246,11 +246,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/31-1.5.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 31</strong> หน่วยงานต้นเรื่อง : กอง ดำเนินการรับเรื่องส่งคืน</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (1).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่กล่องรับเรื่องส่งคืน หน่วยงานต้นเรื่อง : กอง
+ที่กล่องรับเรื่องส่งคืน หน่วยงานต้นเรื่อง : กอง
 
 <figure><img src="../.gitbook/assets/32-1.5.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอรับเรื่องส่งคืน คดีพิเศษ หน่วยงานต้นเรื่อง : กอง</p></figcaption></figure>
 
@@ -282,11 +282,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/37-1.6.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 37</strong> หน่วยงานต้นเรื่อง : ฝ่าย ดำเนินการพิจารณาคดีพิเศษ</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (1).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง : ฝ่าย
+ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง : ฝ่าย
 
 <figure><img src="../.gitbook/assets/38-1.6.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 38</strong> ส่วนคำอธิบาย ส่งกลับแก้ไข</p></figcaption></figure>
 
@@ -315,7 +315,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/42-1.7.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 42</strong> หน่วยงานต้นเรื่อง : กอง ดำเนินการรับเรื่องแก้ไข</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -347,11 +347,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/47-1.8.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 47</strong> หน่วยงานต้นเรื่อง : ฝ่าย ดำเนินการรับเรื่องส่งคืน</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง : ฝ่าย รับเรื่องส่งคืน
+ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง : ฝ่าย รับเรื่องส่งคืน
 
 <figure><img src="../.gitbook/assets/48-1.8.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 48</strong> หน้าจอรับเรื่องส่งคืน คดีพิเศษ หน่วยงานต้นเรื่อง : ฝ่าย</p></figcaption></figure>
 
@@ -379,11 +379,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/52-1.9.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 52</strong> หน่วยงานกฎหมาย : ฝ่าย ดำเนินการรับเรื่อง</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานกฏหมาย: ฝ่าย รับเรื่อง
+ที่ กล่องพิจารณา หน่วยงานกฏหมาย: ฝ่าย รับเรื่อง
 
 <figure><img src="../.gitbook/assets/53-1.9.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 53</strong> ส่วนคำอธิบาย ส่งกลับแก้ไข</p></figcaption></figure>
 
@@ -412,11 +412,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/57-1.10.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 57</strong> หน่วยงานต้นเรื่อง : ฝ่าย ดำเนินการรับเรื่องแก้ไข</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง: ฝ่าย รับเรื่องแก้ไข
+ที่ กล่องพิจารณา หน่วยงานต้นเรื่อง: ฝ่าย รับเรื่องแก้ไข
 
 <figure><img src="../.gitbook/assets/58-1.10.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 58</strong> หน้าจอรับเรื่องแก้ไข คดีพิเศษ หน่วยงานต้นเรื่อง : ฝ่าย</p></figcaption></figure>
 
@@ -444,11 +444,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/62-1.11.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 62</strong> หน่วยงานกฎหมาย : ฝ่าย ดำเนินการรับเรื่องส่งคืน</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานกฏหมาย : ฝ่าย รับเรื่องส่งคืน
+ที่ กล่องพิจารณา หน่วยงานกฏหมาย : ฝ่าย รับเรื่องส่งคืน
 
 <figure><img src="../.gitbook/assets/63-1.11.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 63</strong> หน้าจอรับเรื่องส่งคืน คดีพิเศษ หน่วยงานกฎหมาย : ฝ่าย</p></figcaption></figure>
 
@@ -476,11 +476,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/67-1.12.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 67</strong> หน่วยงานกฎหมาย : ฝ่าย ดำเนินการมอบหมายกอง</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานกฏหมาย : ฝ่าย มอบหมายกอง
+ที่ กล่องพิจารณา หน่วยงานกฏหมาย : ฝ่าย มอบหมายกอง
 
 <figure><img src="../.gitbook/assets/68-1.12.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 68</strong> หน้าจอมอบหมายกอง คดีพิเศษ หน่วยงานกฎหมาย : ฝ่าย</p></figcaption></figure>
 
@@ -513,11 +513,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/73-1.13.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 73</strong> หน่วยงานกฎหมาย : กอง ดำเนินการมอบหมายนิติกร</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานกฏหมาย: กอง มอบหมายนิติกร
+ที่ กล่องพิจารณา หน่วยงานกฏหมาย: กอง มอบหมายนิติกร
 
 <figure><img src="../.gitbook/assets/74-1.13.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 74</strong> หน้าจอมอบหมายนิติกร คดีพิเศษ หน่วยงานกฎหมาย : กอง</p></figcaption></figure>
 
@@ -547,11 +547,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/78-1.14.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 78</strong> หน่วยงานกฎหมาย : ฝ่าย ดำเนินการรับเรื่องแก้ไข</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานกฎหมาย : ฝ่าย รับเรื่องแก้ไข
+ที่ กล่องพิจารณา หน่วยงานกฎหมาย : ฝ่าย รับเรื่องแก้ไข
 
 <figure><img src="../.gitbook/assets/79-1.14.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 79</strong> หน้าจอรับเรื่องแก้ไข คดีพิเศษ หน่วยงานกฎหมาย : ฝ่าย</p></figcaption></figure>
 
@@ -579,11 +579,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/83-1.15.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 83</strong> หน่วยงานกฎหมาย : กอง ดำเนินการรับเรื่อง</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานกฎหมาย : กอง รับเรื่อง
+ที่ กล่องพิจารณา หน่วยงานกฎหมาย : กอง รับเรื่อง
 
 <figure><img src="../.gitbook/assets/84-1.15.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 84</strong> หน้าจอรับเรื่อง คดีพิเศษ หน่วยงานกฎหมาย : กอง</p></figcaption></figure>
 
@@ -606,11 +606,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/87-1.16.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 87</strong> หน้าจอแจ้งเตือนรับเรื่องส่งมอบหมาย ส่งงานคดีพิเศษ หน่วยงานกฎหมาย : กอง</p></figcaption></figure>
 
-1. กดที่ปุ่ม &#x20;
+1. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานกฎหมาย : กอง รับเรื่องส่งมอบหมาย
+ที่ กล่องพิจารณา หน่วยงานกฎหมาย : กอง รับเรื่องส่งมอบหมาย
 
 <figure><img src="../.gitbook/assets/88-1.16.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 88</strong> หน้าจอมอบหมายงาน คดีพิเศษ หน่วยงานกฎหมาย : กอง</p></figcaption></figure>
 
@@ -637,15 +637,15 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 1. เลือก drop down “ประเภทคดี” ให้เป็น “คดีล้มละลาย”
 2. เลือกปุ่ม “+ จัดการ นิติกรผู้รับผิดชอบ”
 
-<figure><img src="../.gitbook/assets/92-1.17.PNG" alt="" width="334"><figcaption><p><strong>รูปภาพที่ 92</strong> หน้าจอ Pop-up จัดการ นิติกรผู้รับผิดชอบ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/92-1.17.PNG" alt="" width="501"><figcaption><p><strong>รูปภาพที่ 92</strong> หน้าจอ Pop-up จัดการ นิติกรผู้รับผิดชอบ</p></figcaption></figure>
 
-&#x20;       2.1 กรอกข้อมูล“ชื่อ – นามสกุล นิติกร”
+2.1 กรอกข้อมูล“ชื่อ – นามสกุล นิติกร”
 
-&#x20;       2.2 กรอกข้อมูล“สถานะ”
+2.2 กรอกข้อมูล“สถานะ”
 
-&#x20;       2.3 ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
+2.3 ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
 
-&#x20;       2.4 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
+2.4 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 
 3. กดปุ่ม “ส่งงาน”
 
@@ -671,11 +671,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/96-1.18.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 96</strong> นิติกรดำเนินการรับเรื่อง</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (2).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา นิติกร รับเรื่องส่งกลับแก้ไข
+ที่ กล่องพิจารณา นิติกร รับเรื่องส่งกลับแก้ไข
 
 <figure><img src="../.gitbook/assets/97-1.18.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 97</strong> เมนู Legal</p></figcaption></figure>
 
@@ -688,27 +688,27 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 7. กรอกคำค้นหาในช่อง Search
 8. ปุ่ม “+ Export”
 
-<figure><img src="../.gitbook/assets/99-1.18.PNG" alt="" width="375"><figcaption><p><strong>รูปภาพที่ 99</strong> หน้าจอ Pop-up “+ Export”</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/99-1.18.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 99</strong> หน้าจอ Pop-up “+ Export”</p></figcaption></figure>
 
-&#x20;       8.1 กรอกข้อมูล“โจทก์/เลขบัตร”
+8.1 กรอกข้อมูล“โจทก์/เลขบัตร”
 
-&#x20;       8.2 กรอกข้อมูล“จำเลย/เลขบัตร”
+8.2 กรอกข้อมูล“จำเลย/เลขบัตร”
 
-&#x20;       8.3 กรอกข้อมูล“ศาลทั้งหมด”
+8.3 กรอกข้อมูล“ศาลทั้งหมด”
 
-&#x20;       8.4 กรอกข้อมูล“วันที่รับเรื่อง”
+8.4 กรอกข้อมูล“วันที่รับเรื่อง”
 
-&#x20;       8.5 กรอกข้อมูล“ประเภทคดี”
+8.5 กรอกข้อมูล“ประเภทคดี”
 
-&#x20;       8.6 กรอกข้อมูล“ทุนทรัพย์”
+8.6 กรอกข้อมูล“ทุนทรัพย์”
 
-&#x20;       8.7 กรอกข้อมูล“โครงการ”
+8.7 กรอกข้อมูล“โครงการ”
 
-&#x20;       8.8 ข้อมูลเรียบร้อย กดปุ่ม “Export”
+8.8 ข้อมูลเรียบร้อย กดปุ่ม “Export”
 
-&#x20;       8.9 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
+8.9 ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 
-9. กดที่ปุ่มแก้ไข  ท้ายรายการคดีพิเศษที่ต้องการ
+9. กดที่ปุ่มแก้ไข ท้ายรายการคดีพิเศษที่ต้องการ
 
 <figure><img src="../.gitbook/assets/100-1.18.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 100</strong> หน้าจอแก้ไขงานคดีพิเศษนิติกร</p></figcaption></figure>
 
@@ -736,11 +736,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/104-1.19.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 104</strong> หน่วยงานกฎหมาย : กอง ดำเนินการรับเรื่องแก้ไข</p></figcaption></figure>
 
-3. กดที่ปุ่ม &#x20;
+3. กดที่ปุ่ม
 
 <figure><img src="../.gitbook/assets/Icon open (3).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ที่ กล่องพิจารณา หน่วยงานกฎหมาย : กอง รับเรื่องแก้ไข
+ที่ กล่องพิจารณา หน่วยงานกฎหมาย : กอง รับเรื่องแก้ไข
 
 <figure><img src="../.gitbook/assets/105-1.19.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 105</strong> หน้าจอพิจารณาคดีพิเศษ หน่วยงานต้นเรื่อง : กอง</p></figcaption></figure>
 
@@ -765,7 +765,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 
 <figure><img src="../.gitbook/assets/Icon edit (3).PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;       ท้ายรายการคดีพิเศษที่ต้องการ
+ท้ายรายการคดีพิเศษที่ต้องการ
 
 ![รูปภาพที่ 109 หน้าจอแก้ไขงานประเภทคดีแรงงาน](../.gitbook/assets/2.png)
 
@@ -824,7 +824,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 12. แนบไฟล์ กดปุ่ม “เพิ่มไฟล์”
 13. บันทึกแนบไฟล์ กด (ไอคอน เครื่องหมายถูก)
 
-<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt="" width="100"><figcaption></figcaption></figure>
 
 14. ข้อมูลเรียบร้อย กดปุ่ม “บันทึก”
 
@@ -871,7 +871,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 17. แนบไฟล์ กดปุ่ม “เพิ่มไฟล์”
 18. บันทึกแนบไฟล์ กด (ไอคอน เครื่องหมายถูก)
 
-<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt="" width="100"><figcaption></figcaption></figure>
 
 19. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 20. ส่งกลับไปยังผู้ส่ง กดปุ่ม “ส่งกลับแก้ไข”
@@ -886,7 +886,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 1. เลือกที่เมนู“การดำเนินคดีแรงงานชั้นอุทธรณ์”
 2. กดปุ่ม “+ เพิ่มรายการยื่นอุทธรณ์”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-066.png" alt="" width="195"><figcaption><p><strong>รูปภาพที่ 127</strong> หน้าจอ Pop-up เพิ่มรายการยื่นอุทธรณ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-066.png" alt="" width="292"><figcaption><p><strong>รูปภาพที่ 127</strong> หน้าจอ Pop-up เพิ่มรายการยื่นอุทธรณ์</p></figcaption></figure>
 
 3. กรอกข้อมูล “วันฟังคำพิพากษาศาลอุทธรณ์”
 4. กรอกข้อมูล “คำพิพากษาศาลอุทธรณ์โดยย่อ”
@@ -894,11 +894,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 6. กรอกข้อมูล “วันขอส่งคำบังคับ”
 7. กดปุ่ม “+ เพิ่มรายการส่งคำบังคับ”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-071.png" alt="" width="192"><figcaption><p><strong>รูปภาพที่ 128</strong> หน้าจอ Pop-up เพิ่มรายการส่งคำบังคับ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-071.png" alt="" width="287"><figcaption><p><strong>รูปภาพที่ 128</strong> หน้าจอ Pop-up เพิ่มรายการส่งคำบังคับ</p></figcaption></figure>
 
 8. กดปุ่ม “+ เพิ่มรายการคำร้อง”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-072.png" alt="" width="303"><figcaption><p><strong>รูปภาพที่ 129</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-072.png" alt="" width="454"><figcaption><p><strong>รูปภาพที่ 129</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-077.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 130</strong> หน้าจอแสดงการดำเนินคดีแรงงานชั้นอุทรณ์ (1)</p></figcaption></figure>
 
@@ -906,7 +906,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 10. แนบไฟล์ กดปุ่ม “เพิ่มไฟล์”
 11. บันทึกแนบไฟล์ กด (ไอคอน เครื่องหมายถูก)
 
-<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt="" width="100"><figcaption></figcaption></figure>
 
 12. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 13. ส่งกลับไปยังผู้ส่ง กดปุ่ม “ส่งกลับแก้ไข”
@@ -921,7 +921,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 1. เลือกที่เมนู “การดำเนินคดีแรงงานชั้นฎีกา”
 2. กดปุ่ม “+ เพิ่มรายการยื่นฏีกา”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-084.png" alt="" width="191"><figcaption><p><strong>รูปภาพที่ 132</strong> หน้าจอ Pop-up เพิ่มรายการยื่นฏีกา</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-084.png" alt="" width="287"><figcaption><p><strong>รูปภาพที่ 132</strong> หน้าจอ Pop-up เพิ่มรายการยื่นฏีกา</p></figcaption></figure>
 
 3. กรอกข้อมูล “วันฟังคำพิพากษาศาลฎีกา”
 4. กรอกข้อมูล “คำพิพากษาศาลฎีกาโดยย่อ”
@@ -929,11 +929,11 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 6. กรอกข้อมูล “วันขอส่งคำบังคับ”
 7. กดปุ่ม “+ เพิ่มรายการส่งคำบังคับ”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-089.png" alt="" width="193"><figcaption><p><strong>รูปภาพที่ 133</strong> หน้าจอ Pop-up เพิ่มรายการส่งคำบังคับ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-089.png" alt="" width="289"><figcaption><p><strong>รูปภาพที่ 133</strong> หน้าจอ Pop-up เพิ่มรายการส่งคำบังคับ</p></figcaption></figure>
 
 8. กดปุ่ม “+ เพิ่มรายการคำร้อง”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-090.png" alt="" width="301"><figcaption><p><strong>รูปภาพที่ 134</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-090.png" alt="" width="452"><figcaption><p><strong>รูปภาพที่ 134</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-095.jpg" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 135</strong> หน้าจอแสดงการดำเนินคดีแรงงานชั้นฏีกา (1)</p></figcaption></figure>
 
@@ -941,7 +941,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 10. แนบไฟล์ กดปุ่ม “เพิ่มไฟล์”
 11. บันทึกแนบไฟล์ กด (ไอคอน เครื่องหมายถูก)
 
-<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt="" width="100"><figcaption></figcaption></figure>
 
 12. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 13. ส่งกลับไปยังผู้ส่ง กดปุ่ม “ส่งกลับแก้ไข”
@@ -956,15 +956,15 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 1. เลือกที่เมนู“บังคับคดีสืบทรัพย์”
 2. กดปุ่ม “+ เพิ่มรายการสืบทรัพย์ (อสังหาริมทรัพย์)”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-102.png" alt="" width="306"><figcaption><p><strong>รูปภาพที่ 137</strong> หน้าจอ Pop-up เพิ่มรายการสืบทรัพย์ (อสังหาริมทรัพย์)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-102.png" alt="" width="458"><figcaption><p><strong>รูปภาพที่ 137</strong> หน้าจอ Pop-up เพิ่มรายการสืบทรัพย์ (อสังหาริมทรัพย์)</p></figcaption></figure>
 
 3. กดปุ่ม “+ เพิ่มรายการสืบทรัพย์อื่น ๆ”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-107.png" alt="" width="304"><figcaption><p><strong>รูปภาพที่ 138</strong> หน้าจอ Pop-up เพิ่มรายการสืบทรัพย์อื่น ๆ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-107.png" alt="" width="456"><figcaption><p><strong>รูปภาพที่ 138</strong> หน้าจอ Pop-up เพิ่มรายการสืบทรัพย์อื่น ๆ</p></figcaption></figure>
 
 4. กดปุ่ม “+ เพิ่มรายการคำร้อง”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-108.png" alt="" width="304"><figcaption><p><strong>รูปภาพที่ 139</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-108.png" alt="" width="456"><figcaption><p><strong>รูปภาพที่ 139</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-113.jpg" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 140</strong> หน้าจอบังคับคดีสืบทรัพย์ (1)</p></figcaption></figure>
 
@@ -972,7 +972,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 6. แนบไฟล์ กดปุ่ม “เพิ่มไฟล์”
 7. บันทึกแนบไฟล์ กด (ไอคอน เครื่องหมายถูก)
 
-<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt="" width="100"><figcaption></figcaption></figure>
 
 8. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 9. ส่งกลับไปยังผู้ส่ง กดปุ่ม “ส่งกลับแก้ไข”
@@ -987,23 +987,23 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 1. เลือกที่เมนู“บังคับคดีสืบทรัพย์”
 2. กดปุ่ม “+ เพิ่มวันตั้งเรื่องบังคับคดีในเขต”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-120.png" alt="" width="190"><figcaption><p><strong>รูปภาพที่ 142</strong> หน้าจอ Pop-up เพิ่มวันตั้งเรื่องบังคับคดีในเขต</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-120.png" alt="" width="285"><figcaption><p><strong>รูปภาพที่ 142</strong> หน้าจอ Pop-up เพิ่มวันตั้งเรื่องบังคับคดีในเขต</p></figcaption></figure>
 
 3. กดปุ่ม “+ เพิ่มวันตั้งเรื่องบังคับคดีข้ามเขต”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-125.png" alt="" width="193"><figcaption><p><strong>รูปภาพที่ 143</strong> หน้าจอ Pop-up เพิ่มวันตั้งเรื่องบังคับคดีข้ามเขต</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-125.png" alt="" width="290"><figcaption><p><strong>รูปภาพที่ 143</strong> หน้าจอ Pop-up เพิ่มวันตั้งเรื่องบังคับคดีข้ามเขต</p></figcaption></figure>
 
 4. กดปุ่ม “+ เพิ่มรายการยึดทรัพย์ (อสังหาริมทรัพย์)”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-126.png" alt="" width="305"><figcaption><p><strong>รูปภาพที่ 144</strong> หน้าจอ Pop-up เพิ่มรายการยึดทรัพย์ (อสังหาริมทรัพย์)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-126.png" alt="" width="457"><figcaption><p><strong>รูปภาพที่ 144</strong> หน้าจอ Pop-up เพิ่มรายการยึดทรัพย์ (อสังหาริมทรัพย์)</p></figcaption></figure>
 
 5. กดปุ่ม “+ เพิ่มรายการยึดทรัพย์อื่น ๆ”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-131.png" alt="" width="305"><figcaption><p><strong>รูปภาพที่ 145</strong> หน้าจอ Pop-up เพิ่มรายการยึดทรัพย์อื่น ๆ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-131.png" alt="" width="457"><figcaption><p><strong>รูปภาพที่ 145</strong> หน้าจอ Pop-up เพิ่มรายการยึดทรัพย์อื่น ๆ</p></figcaption></figure>
 
 6. กดปุ่ม “+ เพิ่มรายการคำร้อง”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-132.png" alt="" width="304"><figcaption><p><strong>รูปภาพที่ 146</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-132.png" alt="" width="455"><figcaption><p><strong>รูปภาพที่ 146</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-137.jpg" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 147</strong> หน้าจอบังคับคดียึดทรัพย์ (1)</p></figcaption></figure>
 
@@ -1011,7 +1011,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 8. แนบไฟล์ กดปุ่ม “เพิ่มไฟล์”
 9. บันทึกแนบไฟล์ กด (ไอคอน เครื่องหมายถูก)
 
-<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt="" width="100"><figcaption></figcaption></figure>
 
 10. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 11. ส่งกลับไปยังผู้ส่ง กดปุ่ม “ส่งกลับแก้ไข”
@@ -1026,15 +1026,15 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 1. เลือกที่เมนู“บังคับคดีอายัดทรัพย์”
 2. กดปุ่ม “+ เพิ่มวันตั้งเรื่องบังคับคดีในเขต”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-144.png" alt="" width="191"><figcaption><p><strong>รูปภาพที่ 149</strong> หน้าจอ Pop-up เพิ่มวันตั้งเรื่องบังคับคดีในเขต</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-144.png" alt="" width="286"><figcaption><p><strong>รูปภาพที่ 149</strong> หน้าจอ Pop-up เพิ่มวันตั้งเรื่องบังคับคดีในเขต</p></figcaption></figure>
 
 3. กดปุ่ม “+ เพิ่มรายการอายัดทรัพย์”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-151.png" alt="" width="303"><figcaption><p><strong>รูปภาพที่ 150</strong> หน้าจอ Pop-up เพิ่มรายการอายัดทรัพย์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-151.png" alt="" width="454"><figcaption><p><strong>รูปภาพที่ 150</strong> หน้าจอ Pop-up เพิ่มรายการอายัดทรัพย์</p></figcaption></figure>
 
 4. กดปุ่ม “+ เพิ่มรายการคำร้อง”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-152.png" alt="" width="304"><figcaption><p><strong>รูปภาพที่ 151</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-152.png" alt="" width="455"><figcaption><p><strong>รูปภาพที่ 151</strong> หน้าจอ Pop-up เพิ่มรายการคำร้อง</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-157.jpg" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 152</strong> หน้าจอบังคับคดีอายัดทรัพย์ (1)</p></figcaption></figure>
 
@@ -1042,7 +1042,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 6. แนบไฟล์ กดปุ่ม “เพิ่มไฟล์”
 7. บันทึกแนบไฟล์ กด (ไอคอน เครื่องหมายถูก)
 
-<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt="" width="100"><figcaption></figcaption></figure>
 
 8. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
 9. ส่งกลับไปยังผู้ส่ง กดปุ่ม “ส่งกลับแก้ไข”
@@ -1076,15 +1076,15 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 1. เลือกที่เมนู“ติดตามค่าเสียหาย”
 2. กดปุ่ม “+ รายการ กคช. รับเงิน”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-170.png" alt="" width="195"><figcaption><p><strong>รูปภาพที่ 155</strong> หน้าจอ Pop-up เพิ่มรายการ กคช. รับเงิน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-170.png" alt="" width="293"><figcaption><p><strong>รูปภาพที่ 155</strong> หน้าจอ Pop-up เพิ่มรายการ กคช. รับเงิน</p></figcaption></figure>
 
 3. กดปุ่ม “+ รายการ กคช. จ่ายเงิน”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-175.png" alt="" width="192"><figcaption><p><strong>รูปภาพที่ 156</strong> หน้าจอ Pop-up เพิ่มรายการ กคช. จ่ายเงิน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-175.png" alt="" width="288"><figcaption><p><strong>รูปภาพที่ 156</strong> หน้าจอ Pop-up เพิ่มรายการ กคช. จ่ายเงิน</p></figcaption></figure>
 
 4. กดปุ่ม “+ รายการ เงินวางศาล”
 
-<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-176.png" alt="" width="194"><figcaption><p><strong>รูปภาพที่ 157</strong> หน้าจอ Pop-up เพิ่มรายการ เงินวางศาล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NHA_DT1_UM_SP_04_V3.1.0.pdf-image-176.png" alt="" width="290"><figcaption><p><strong>รูปภาพที่ 157</strong> หน้าจอ Pop-up เพิ่มรายการ เงินวางศาล</p></figcaption></figure>
 
 5. กรอกข้อมูล“วันที่ รับเงินวางศาล”
 6. กรอกข้อมูล“จำนวนเงินที่ได้รับจากศาล”
@@ -1092,7 +1092,7 @@ _รูปภาพที่ 3_ หน้าจอแสดงผลเมนู
 8. แนบไฟล์ กดปุ่ม “เพิ่มไฟล์”
 9. บันทึกแนบไฟล์ กด (ไอคอน เครื่องหมายถูก)
 
-<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon correct (3).PNG" alt="" width="100"><figcaption></figcaption></figure>
 
 10. กรอกข้อมูลหมายเหตุ
 11. ไม่บันทึกข้อมูล กดปุ่ม “ยกเลิก”
